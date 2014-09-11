@@ -136,6 +136,11 @@
 		margin:0 auto;
 	}
 
+	#search .dropdown-menu{
+		visibility: visible;
+		opacity: 1;
+	}
+
 
 	/*SVG*/
 

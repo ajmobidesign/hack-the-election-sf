@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngSanitize',
     'ngTouch',
-    'ui.router', 
+    'ui.router',
+    'ui.bootstrap', 
     'appDirectives'
   ]).config(function($stateProvider, $urlRouterProvider) {
   
@@ -26,7 +27,8 @@ angular
     $stateProvider
       .state('home', {
         url: "/",
-        templateUrl: "/views/home.html"
+        templateUrl: "/views/home.html",
+        controller:'TypeaheadCtrl'
       })
       .state('candidates', {
         url: "/candidates",

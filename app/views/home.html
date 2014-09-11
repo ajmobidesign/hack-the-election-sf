@@ -14,12 +14,25 @@
 
 
 			</div>
-			<div class="col-md-8">
-				<input type="text" placeholder="Enter a candidate or proposition" class="form-control">
+			
+			<script type="text/ng-template" id="customTemplate.html">
+			  <a>
+			      
+			      <span bind-html-unsafe="match.label | typeaheadHighlight:query"></span>
+			  </a>	
+			</script>
+		
+			<div class="col-md-8" id="search" >
+				
+				
+				<input type="text" placeholder="Candidate Last Name" ng-model="selected" typeahead="name for name in searchVals | filter:$viewValue" class="form-control" typeahead-template-url="customTemplate.html">
+			
 			</div>
+			
 			<div class="col-md-4">	
-					<button class="btn btn-inverse">SEARCH </button>
+					<button ng-click=submit(selected) class="btn btn-inverse">SEARCH </button>
 			</div>	
+			
 
 			
 
