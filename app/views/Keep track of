@@ -1,0 +1,53 @@
+Keep track of 
+
+-- Leaflet shape file. Replace it at some point
+
+--contianer /less file
+
+--make continer bigger
+--all data as single json?
+--social media sharing
+
+
+How to handle navigation?
+-Propositions
+	- list of all
+		-About /spending for 
+				-list of cmts
+					-details page
+			/spending against
+				-list of cmts
+					-details page
+
+-candidates
+	-By District
+		-list of candidates
+		  - candidate page
+		  	- details page
+
+
+Nav Json
+
+-Use node to generate output file
+Nested json
+
+prop nav
+
+{
+	prop_name: '',
+	cmt_for:[
+				{filer_id: ''}
+			],
+	cmt_against:[
+				{filer_id: ''}
+			],
+
+
+}
+
+
+
+
+
+
+

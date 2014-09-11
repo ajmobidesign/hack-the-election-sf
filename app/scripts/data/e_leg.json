@@ -1,0 +1,10 @@
+{"CMP" :"campaign paraphernalia/misc",  
+"MBR" :"member communications RAD radio airtime and production costs",
+"CNS" :"campaign consultants MTG meetings and appearances RFD returned contributions",
+"CTB" :"contribution (explain nonmonetary)* OFC office expenses SAL campaign workers’ salaries",
+"CVC" :"civic donations PET petition circulating TEL t.v. or cable airtime and production costs", 
+"FIL" :"candidate filing/ballot fees PHO phone banks TRC candidate travel, lodging, and meals",
+"FND" :"fundraising events POL polling and survey research TRS staff/spouse travel, lodging, and meals",
+"IND" :"independent expenditure supporting/opposing others (explain)* POS postage, delivery and messenger services TSF transfer between committees of the same candidate/sponsor",
+"LEG" :"legal defense PRO professional services (legal, accounting) VOT voter registration", 
+"LIT" :"campaign literature and mailings PRT print ads WEB information technology costs (internet, e-mail) "}

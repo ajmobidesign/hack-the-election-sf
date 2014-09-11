@@ -1,0 +1,6263 @@
+[ {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Self",
+  "lobbyist" : "Rutland, Patty-Jo",
+  "payee" : "Reelect Public Defender Jeff Adachi 2014",
+  "official" : "Adachi, Jeff",
+  "date" : "2014-04-14T00:00:00",
+  "sourceoffunds" : "Rutland, Patty-Jo"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Re-Elect Michela Alioto Pier",
+  "official" : "Alioto Pier, Michela",
+  "date" : "2010-08-03T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Michela Alioto-Pier For Mayor 2011",
+  "official" : "Alioto-Pier, Michela",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Michela Alioto-Pier For Mayor 2011",
+  "official" : "Alioto-Pier, Michela",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Alioto-Pier For Mayor",
+  "official" : "Alioto-Pier, Michela",
+  "date" : "2011-07-21T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Michela Alioto Pier For Mayor 2010",
+  "official" : "Alioto-Pier, Michela",
+  "date" : "2011-03-03T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Michela Alioto Pier For Mayor 2010",
+  "official" : "Alioto-Pier, Michela",
+  "date" : "2011-03-03T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Kat Anderson Dcc",
+  "official" : "Anderson, Kat",
+  "date" : "2012-05-12T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Kat Anderson Dcc",
+  "official" : "Anderson, Kat",
+  "date" : "2012-05-12T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "20000.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "San Franciscans United To Protect Retirees And Taxpayers, Yes On A",
+  "official" : "A, Proposition",
+  "date" : "2013-11-01T00:00:00",
+  "sourceoffunds" : "California Association Of Realtors"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Melissa Apuya For Dccc",
+  "official" : "Apuya, Melissa",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Avalos For Mayor 2011",
+  "official" : "Avalos, John",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Patty-Jo Rutland Consulting Llc",
+  "lobbyist" : "Rutland, Patty-Jo",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2014-03-10T00:00:00",
+  "sourceoffunds" : "Pattyjo Rutland Consulting",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Avalos For Mayor 2011",
+  "official" : "Avalos, John",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "John Avalos For Dccc 2010",
+  "official" : "Avalos, John",
+  "date" : "2010-04-16T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-09-25T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-04-16T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "249.99",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-09-06T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-09-25T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-04-16T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-09-25T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-04-16T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Avalos For District 11 Supervisor 2012",
+  "official" : "Avalos, John",
+  "date" : "2012-07-24T00:00:00",
+  "sourceoffunds" : "Potashner, Eric",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "400.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Avalos For Mayor 2011",
+  "official" : "Avalos, John",
+  "date" : "2011-08-12T00:00:00",
+  "sourceoffunds" : "Potashner, Eric"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Avalos For Mayor 2011",
+  "official" : "Avalos, John",
+  "date" : "2011-04-30T00:00:00",
+  "sourceoffunds" : "Potashner, Eric",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Amy Bachrach Community College",
+  "official" : "Bacharach, Amy",
+  "date" : "2012-10-04T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100000.00",
+  "lobbyist_firm" : "Hotel Council Of San Francisco",
+  "lobbyist" : "Breslin, Patricia",
+  "payee" : "Economic Recovery Sf",
+  "official" : "Ballot Measures, Ballot Measures",
+  "date" : "2010-08-17T00:00:00",
+  "sourceoffunds" : "Hotel Council Of San Francisco"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Keith Baraka For Dccc 2010",
+  "official" : "Baraka, Keith",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Keith Baraka Dcc 2010",
+  "official" : "Baraka, Keith",
+  "date" : "2010-05-13T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "40000.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "San Franciscans For Parks, Jobs And Housing, Yes On B & C",
+  "official" : "B & C, Proposition",
+  "date" : "2013-11-08T00:00:00",
+  "sourceoffunds" : "California Association Of Realtors"
+}
+, {
+  "amount" : "118.00",
+  "lobbyist_firm" : "Daniller Consulting Inc.",
+  "lobbyist" : "Daniller-Katz, Gia",
+  "payee" : "Natalie Berg For San Francisco Community College Board 2012",
+  "official" : "Berg, Natalie",
+  "date" : "2012-10-01T00:00:00",
+  "sourceoffunds" : "Daniller, Gia"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Fabris, James",
+  "payee" : "Dufty And Mendoza For Democratic County Central Committee 2012",
+  "official" : "Bevan Dufty, Hydra Mendoza/",
+  "date" : "2012-06-04T00:00:00",
+  "sourceoffunds" : "San Francisco Association Of Realtors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "No On B 2014, Sponsored By The San Francisco Alliance For Jobs And Sustainable Growth",
+  "official" : "B, Measure",
+  "date" : "2014-04-17T00:00:00",
+  "sourceoffunds" : "Jung, Mary"
+}
+, {
+  "amount" : "750.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "No On B 2014, Sponsored By The San Francisco Alliance For Jobs And Sustainable Growth",
+  "official" : "B, Measure",
+  "date" : "2014-04-24T00:00:00",
+  "sourceoffunds" : "Jung, Mary"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2013-02-25T00:00:00",
+  "sourceoffunds" : "Wright, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Kls Consulting",
+  "lobbyist" : "Smith, Kimberly",
+  "payee" : "London Breed For Supervisor",
+  "official" : "Breed, London",
+  "date" : "2013-03-26T00:00:00",
+  "sourceoffunds" : "Smith, Kimberly"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Singer Associates, Inc.",
+  "lobbyist" : "Alberti, Adam",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2012-06-26T00:00:00",
+  "sourceoffunds" : "Singer, Sam"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Singer Associates, Inc.",
+  "lobbyist" : "Alberti, Adam",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2013-02-25T00:00:00",
+  "sourceoffunds" : "Alberti, Adam"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2013-02-13T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2012-12-14T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2012-12-19T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2012-12-18T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "London Breed For Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2013-02-13T00:00:00",
+  "sourceoffunds" : "Lauter, Samuel"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "London Breed For Supervisor",
+  "official" : "Breed, London",
+  "date" : "2012-10-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "499.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2013-02-13T00:00:00",
+  "sourceoffunds" : "Goodyear-Peterson, Llc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "London Breed For San Francisco Supervisor 2012",
+  "official" : "Breed, London",
+  "date" : "2012-12-14T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Solem, Don",
+  "payee" : "London Breed For Sf Supervisor",
+  "official" : "Breed, London",
+  "date" : "2012-12-31T00:00:00",
+  "sourceoffunds" : "Solem, Don"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Patty-Jo Rutland Consulting Llc",
+  "lobbyist" : "Rutland, Patty-Jo",
+  "payee" : "David Campos For Assembly 2014",
+  "official" : "Campos, David",
+  "date" : "2014-03-17T00:00:00",
+  "sourceoffunds" : "Pattyjo Rutland Consulting"
+}
+, {
+  "amount" : "2100.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "David Campos For Assembly 2014",
+  "official" : "Campos, David",
+  "date" : "2014-06-24T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "2100.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "David Campos For Assembly 2014",
+  "official" : "Campos, David",
+  "date" : "2014-02-17T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "David Campos For Assembly 2014",
+  "official" : "Campos, David",
+  "date" : "2013-11-22T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "David Campos For Assembly 2014",
+  "official" : "Campos, David",
+  "date" : "2013-08-16T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-09-12T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-07-26T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "David Campos For State Assembly 2014",
+  "official" : "Campos, David",
+  "date" : "2013-09-28T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "750.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "David Campos For Dccc 2012",
+  "official" : "Campos, David",
+  "date" : "2012-04-06T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "David Campos For Dccc 2010",
+  "official" : "Campos, David",
+  "date" : "2010-04-10T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-09-24T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-04-02T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Committee To Reelect David Campos For Supervisor 2012",
+  "official" : "Campos, David",
+  "date" : "2013-05-23T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "249.99",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Committee To Reelect David Campos For Supervisor 2012",
+  "official" : "Campos, David",
+  "date" : "2012-07-26T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-09-25T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-04-02T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "David Campos For Assembly 2014",
+  "official" : "Campos, David",
+  "date" : "2014-03-01T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Re-Elect Supervisor David Campos 2012",
+  "official" : "Campos, David",
+  "date" : "2012-09-01T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Re-Elect Supervisor David Campos 2012",
+  "official" : "Campos, David",
+  "date" : "2012-09-01T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect David Campos For Supervisor 2012",
+  "official" : "Campos, David",
+  "date" : "2012-10-02T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Loeven And Associates, Llc",
+  "lobbyist" : "Loeven, Lewis",
+  "payee" : "David Campos For Dccc 2010",
+  "official" : "Campos, David",
+  "date" : "2010-05-12T00:00:00",
+  "sourceoffunds" : "Loeven, Lewis"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Mogi, Viva",
+  "payee" : "Committee To Reelect David Campos",
+  "official" : "Campos, David",
+  "date" : "2013-06-28T00:00:00",
+  "sourceoffunds" : "Mogi, Viva"
+}
+, {
+  "amount" : "2000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "David Campos Dcc",
+  "official" : "Campos, David",
+  "date" : "2013-06-17T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Committee To Reelect David Campos",
+  "official" : "Campos, David",
+  "date" : "2012-10-04T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Committee To Reelect David Campos For Supervisor 2012",
+  "official" : "Campos, David",
+  "date" : "2013-05-20T00:00:00",
+  "sourceoffunds" : "Owen, David"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Committee To Reelect David Campos For Supervisor 2012",
+  "official" : "Campos, David",
+  "date" : "2012-10-28T00:00:00",
+  "sourceoffunds" : "Owen, David",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "David Campos For Democratic County Central Committee 2012",
+  "official" : "Campos, David",
+  "date" : "2013-02-26T00:00:00",
+  "sourceoffunds" : "Goodyear-Peterson, Llc"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-09-24T00:00:00",
+  "sourceoffunds" : "Peterson, Rich",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Committee To Re-Elect David Campos For Supervisor - 2012",
+  "official" : "Campos, David",
+  "date" : "2012-04-02T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Mosher, Mark",
+  "payee" : "Re-Elect David Campos For Supervisor 2012",
+  "official" : "Campos, David",
+  "date" : "2012-10-03T00:00:00",
+  "sourceoffunds" : "Mosher, Mark"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Committee To Reelect David Campos For Supervisor 2012",
+  "official" : "Campos, David",
+  "date" : "2012-06-29T00:00:00",
+  "sourceoffunds" : "Potashner, Eric",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "David Campos For Democratic County Central Committee 2012",
+  "official" : "Campos, David",
+  "date" : "2012-05-15T00:00:00",
+  "sourceoffunds" : "Potashner, Eric"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "David Chiu For Mayor 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-05-31T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "David Chiu For Assembly 2014",
+  "official" : "Chiu, David",
+  "date" : "2013-12-13T00:00:00",
+  "sourceoffunds" : "Vettel, Steve",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "David Chiu For Assembly 2014",
+  "official" : "Chiu, David",
+  "date" : "2013-11-24T00:00:00",
+  "sourceoffunds" : "Vettel, Steve"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Re-Elect Supervisor David Chiu 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-06-15T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "David Chiu For Mayor Of San Francisco 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-10-27T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "David Chiu For Mayor Of San Francisco 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-06-10T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "David Chiu For Dccc 2010",
+  "official" : "Chiu, David",
+  "date" : "2010-04-15T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "David Chiu For Dccc 2010",
+  "official" : "Chiu, David",
+  "date" : "2010-05-14T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "David Chiu For Mayor 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "400.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "David Chiu For Assembly 2014",
+  "official" : "Chiu, David",
+  "date" : "2013-12-19T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "David Chiu For Assembly 2014",
+  "official" : "Chiu, David",
+  "date" : "2013-11-19T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Re-Elect Supervisor David Chiu 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-06-29T00:00:00",
+  "sourceoffunds" : "Vitlin, Matthew"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Re-Elect Supervisor David Chiu 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-06-29T00:00:00",
+  "sourceoffunds" : "Vitlin, Mina"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Re-Elect Supervisor David Chiu 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-05-24T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Chiu For Mayor 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-07-20T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Chiu For Mayor 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-07-21T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Chiu For Mayor 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-06-20T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Chiu For Mayor 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-06-20T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "David Chiu For Dccc 2010",
+  "official" : "Chiu, David",
+  "date" : "2010-04-16T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Re-Elect Supervisor David Chiu",
+  "official" : "Chiu, David",
+  "date" : "2012-09-30T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Re-Elect Supervisor David Chiu",
+  "official" : "Chiu, David",
+  "date" : "2012-09-30T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "David Chiu For Mayor",
+  "official" : "Chiu, David",
+  "date" : "2011-04-16T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Self",
+  "lobbyist" : "Loeven, Lewis",
+  "payee" : "Re-Elect Supervisor David Chiu 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-09-30T00:00:00",
+  "sourceoffunds" : "Loeven, Lewis"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Loeven And Associates, Llc",
+  "lobbyist" : "Loeven, Lewis",
+  "payee" : "David Chiu For Mayor 2011",
+  "official" : "Chiu, David",
+  "date" : "2011-06-21T00:00:00",
+  "sourceoffunds" : "Loeven, Lewis"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Loeven And Associates, Llc",
+  "lobbyist" : "Loeven, Lewis",
+  "payee" : "David Chiu For Democratic County Central Committee 2010",
+  "official" : "Chiu, David",
+  "date" : "2010-05-19T00:00:00",
+  "sourceoffunds" : "Loeven, Lewis"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "David Chiu Supervisor 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-07-01T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "David Chiu Dcc 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-05-08T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "David Chiu Dcc 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-05-08T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Kaufman, Jon",
+  "payee" : "Re-Elect Supervisor David Chiu 2012",
+  "official" : "Chiu, David",
+  "date" : "2012-06-20T00:00:00",
+  "sourceoffunds" : "Kaufman, Jon"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Carmen Chu For Sf Assessor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-05-30T00:00:00",
+  "sourceoffunds" : "Wright, Chris"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Sf Assessor Recorder 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-05-15T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Sf Assessor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-07-10T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-03-09T00:00:00",
+  "sourceoffunds" : "Kennedy, Patrick"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Reilly, James"
+}
+, {
+  "amount" : "125.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Boss, Joseph"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Riter, Steve"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Gensler, M. Arthur"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Bailey, Spencer"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Mcnerney, Patrick"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Lahey, John"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Casalou, Allan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Juarez, Richard"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-04T00:00:00",
+  "sourceoffunds" : "Podell, Nick"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Coalition For Better Housing",
+  "lobbyist" : "Turner, Brook",
+  "payee" : "Carmen Chu For Assessor 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-05-20T00:00:00",
+  "sourceoffunds" : "Turner, Brook"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Carment Chu For Assessor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-06-06T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Carmen Chu For Assessor-Recorder 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-05-02T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Carmen Chu For Assessor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-05-22T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Carmen Chu For Assessor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-05-20T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear Peterson Hayward & Associates",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Carmen Chu For Assessor-Recorder 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-04-30T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Carmen Chu For Assesor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-04-30T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Atg Consulting",
+  "lobbyist" : "Gregg, Andrew",
+  "payee" : "Carmen Chu 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-22T00:00:00",
+  "sourceoffunds" : "Gregg, Andrew"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Carmen Chu For Assessor-Recorder 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-05-14T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Carmen Chu For San Francisco Assessor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-05-09T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-03-31T00:00:00",
+  "sourceoffunds" : "Platinum Advisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear Peterson Hayward & Associates",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Carmen Chu For Assessor-Recorder 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-04-30T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Carmen Chu For Assesor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-04-30T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Carmen Chu For Assessor",
+  "official" : "Chu, Carmen",
+  "date" : "2013-11-01T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Philip Lesser",
+  "lobbyist" : "Lesser, Philip",
+  "payee" : "Carmen Chu For Sf Assessor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-04-30T00:00:00",
+  "sourceoffunds" : "Lesser, Philip"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Carmen Chu Assessor",
+  "official" : "Chu, Carmen",
+  "date" : "2014-05-20T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Caremn Chu Assessor",
+  "official" : "Chu, Carmen",
+  "date" : "2013-05-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Airbnb",
+  "lobbyist" : "Owen, David",
+  "payee" : "Carmen Chu For Assessor-Recorder 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-05-14T00:00:00",
+  "sourceoffunds" : "Owen, David"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear Peterson Hayward & Associates",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Carmen Chu For Assessor-Recorder 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-04-30T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Carmen Chu For Assesor 2013",
+  "official" : "Chu, Carmen",
+  "date" : "2013-04-30T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Public Advocacy Partners",
+  "lobbyist" : "Polacci, Bert",
+  "payee" : "Carmen Chu For Assessor 2014",
+  "official" : "Chu, Carmen",
+  "date" : "2014-05-20T00:00:00",
+  "sourceoffunds" : "Polacci, Bert"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "T. Y. Lin International",
+  "lobbyist" : "Rodman, Caroline",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-08-08T00:00:00",
+  "sourceoffunds" : "Rodman, Caroline"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Gca Strategies",
+  "lobbyist" : "Noto, Frank",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-05T00:00:00",
+  "sourceoffunds" : "Herr, Robert"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Gca Strategies",
+  "lobbyist" : "Noto, Frank",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-02-22T00:00:00",
+  "sourceoffunds" : "Gregg, Andrew"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Susan Hirsch And Associates",
+  "lobbyist" : "Hirsch, Susan",
+  "payee" : "Carmen Chu For Supervisor 2010",
+  "official" : "Chu, Carmen",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Hirsch, Susan"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Cisneross For Treasuer 2013",
+  "official" : "Cisneros, Jose",
+  "date" : "2013-06-05T00:00:00",
+  "sourceoffunds" : "Wright, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Cisneros For Treasurer2013",
+  "official" : "Cisneros, Jose",
+  "date" : "2013-05-24T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Cisneros For Treasurer 2013",
+  "official" : "Cisneros, Jose",
+  "date" : "2013-06-12T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Cisneros For Treasurer 2013",
+  "official" : "Cisneros, Jose",
+  "date" : "2013-06-20T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Cisneros For Treasurer 2013",
+  "official" : "Cisneros, Jose",
+  "date" : "2013-06-05T00:00:00",
+  "sourceoffunds" : "Owen, David"
+}
+, {
+  "amount" : "12500.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Civil Sidewalks",
+  "official" : "Civil Sidewalks, Civil Sidewalks",
+  "date" : "2010-10-05T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "7500.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Civil Sidewalks",
+  "official" : "Civil Sidewalks, Civil Sidewalks",
+  "date" : "2010-10-19T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "700.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Andrew Clark For Dccc 2010",
+  "official" : "Clark, Andrew",
+  "date" : "2010-04-14T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Sierra Club Sf Bay Chapter Campaigns Slate Mailer Organization",
+  "official" : "Club, Sierra",
+  "date" : "2010-10-07T00:00:00",
+  "sourceoffunds" : "Barbary Coast Consulting"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Re-Elect Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2013-12-13T00:00:00",
+  "sourceoffunds" : "Vettel, Steve"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-03T00:00:00",
+  "sourceoffunds" : "Reilly, James"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-03T00:00:00",
+  "sourceoffunds" : "Juarez, Richard"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-03T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-03T00:00:00",
+  "sourceoffunds" : "Reilly, Domenic"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-03T00:00:00",
+  "sourceoffunds" : "Davis, Evette"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-03T00:00:00",
+  "sourceoffunds" : "Kennedy, Patrick"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-03T00:00:00",
+  "sourceoffunds" : "Block, Sharmin"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Re-Elect Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2013-10-27T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-10T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Kls Consulting",
+  "lobbyist" : "Smith, Kimberly",
+  "payee" : "Malia Cohen For Dccc",
+  "official" : "Cohen, Malia",
+  "date" : "2012-12-13T00:00:00",
+  "sourceoffunds" : "Smith, Kimberly"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Malia Cohen For Democratic County Central Committee 2012",
+  "official" : "Cohen, Malia",
+  "date" : "2012-12-11T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Malia Cohen For Democratic County Central Committee 2012",
+  "official" : "Cohen, Malia",
+  "date" : "2012-05-11T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Re-Elect Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2014-04-15T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Malia Cohen For Dccc 2012",
+  "official" : "Cohen, Malia",
+  "date" : "2012-05-17T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Malia Cohen For Supervisor",
+  "official" : "Cohen, Malia",
+  "date" : "2011-01-25T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-11-17T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Re-Elect Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2014-05-14T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Re-Elect Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2014-04-30T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Re-Elect Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2013-10-23T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "396.98",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Johnston, Karin",
+  "payee" : "Re-Elect Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2013-10-30T00:00:00",
+  "sourceoffunds" : "Johnston, Karin"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barnes, Mosher, Whitehurst, Lauter And Partners, Inc.",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Elect Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-11-16T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "-100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Mogi, Viva",
+  "payee" : "Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2014-05-20T00:00:00",
+  "sourceoffunds" : "Mogi, Viva"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Mogi, Viva",
+  "payee" : "Malia Cohen For Supervisor 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2014-04-30T00:00:00",
+  "sourceoffunds" : "Mogi, Viva"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Malia Cohen Sup 2014",
+  "official" : "Cohen, Malia",
+  "date" : "2013-12-03T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "2000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Malia Cohen Dcc",
+  "official" : "Cohen, Malia",
+  "date" : "2012-12-13T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Malia Cohen Dcc",
+  "official" : "Cohen, Malia",
+  "date" : "2012-04-30T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Malia Cohen For Supervisor",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-01T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Malia Cohen For Supervisor",
+  "official" : "Cohen, Malia",
+  "date" : "2010-12-01T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-11-18T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Reuben, Junius & Rose, Llp",
+  "lobbyist" : "Reuben, James",
+  "payee" : "Malia Cohen For Supervisor",
+  "official" : "Cohen, Malia",
+  "date" : "2014-01-30T00:00:00",
+  "sourceoffunds" : "Reuben, James A.",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Jones, Dwayne",
+  "payee" : "Malia Cohen For Democratic County Central Committee 2012",
+  "official" : "Cohen, Malia",
+  "date" : "2012-12-14T00:00:00",
+  "sourceoffunds" : "Jones, Dwayne"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Jones, Dwayne",
+  "payee" : "Malia Cohen For Democratic County Central Committee 2012",
+  "official" : "Cohen, Malia",
+  "date" : "2012-04-05T00:00:00",
+  "sourceoffunds" : "Jones, Dwayne"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Jones, Dwayne",
+  "payee" : "Malia Cohen For Superviosr 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2011-12-08T00:00:00",
+  "sourceoffunds" : "Jones, Dwayne"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Malia Cohen For Superviosr 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2011-12-30T00:00:00",
+  "sourceoffunds" : "Potashner, Eric"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Malia Cohen For Supervisor 2010",
+  "official" : "Cohen, Malia",
+  "date" : "2010-10-29T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sims Metal Management",
+  "lobbyist" : "Madden, Marc",
+  "payee" : "Save Hetch Hetchy",
+  "official" : "Committee, Committee",
+  "date" : "2012-08-31T00:00:00",
+  "sourceoffunds" : "Sims Metal Management"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Crowley For Supervisor 2012",
+  "official" : "Crowley, Francis Xavier",
+  "date" : "2012-09-28T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Crowley For Supervisor 2012",
+  "official" : "Crowley, Francis Xavier",
+  "date" : "2012-09-28T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Fx Crowley For Supervisor 2012",
+  "official" : "Crowley, Fx",
+  "date" : "2012-10-05T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Guehring, Ross",
+  "payee" : "Fx Crowley For Supervisor 2012",
+  "official" : "Crowley, Fx",
+  "date" : "2012-08-31T00:00:00",
+  "sourceoffunds" : "Guehring, Ross"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Self",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Chris Cunnie For Sheriff 2011",
+  "official" : "Cunnie, Chris",
+  "date" : "2011-10-31T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Chris Cunnie For Sheriff 2011",
+  "official" : "Cunnie, Chris",
+  "date" : "2011-10-18T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Chris Cunnie For Sheriff",
+  "official" : "Cunnie, Chris",
+  "date" : "2011-11-03T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Chris Cunnie For Sheriff",
+  "official" : "Cunnie, Chris",
+  "date" : "2011-09-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Chris Cunnie For Sheriff",
+  "official" : "Cunnie, Chris",
+  "date" : "2011-09-15T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "2500.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "San Francisco Democratic County Central Committee",
+  "official" : "Democratic County Central Committee, Sf",
+  "date" : "2010-10-28T00:00:00",
+  "sourceoffunds" : "Barbary Coast Consulting"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Reuben, Junius & Rose, Llp",
+  "lobbyist" : "Frattin, Daniel",
+  "payee" : "San Francisco Democratic County Central Committee",
+  "official" : "Democratic Party, San Francisco",
+  "date" : "2014-04-09T00:00:00",
+  "sourceoffunds" : "Reuben, Junius And Rose, Llp"
+}
+, {
+  "amount" : "3500.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Dudum For Dccc - 2010",
+  "official" : "Dudum, Ron",
+  "date" : "2010-04-06T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Bevan Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Vriheas, Theadora",
+  "payee" : "Bevan Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-10-14T00:00:00",
+  "sourceoffunds" : "Vriheas, Theadora"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Bevan Dufty For Mayor Of San Francisco 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-06-10T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Dufty And Mendoza For Democratic County Central Committee 2012",
+  "official" : "Dufty, Bevan",
+  "date" : "2012-05-11T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Bevan Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-08-09T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Bevan Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-08-11T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Bevan Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Bevan Dufty For Dccc 2012",
+  "official" : "Dufty, Bevan",
+  "date" : "2012-06-05T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Bevan Dufty For Dccc 2012",
+  "official" : "Dufty, Bevan",
+  "date" : "2012-06-29T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-06-20T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Bevan Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2010-10-25T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Bevan Dufty For Mayor, 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-10-10T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "3000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dufty-Mendoza Dcc",
+  "official" : "Dufty, Bevan",
+  "date" : "2012-08-08T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "2000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dufty-Mendoza Dcc",
+  "official" : "Dufty, Bevan",
+  "date" : "2012-05-24T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "2000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dufty-Mendoza Dcc",
+  "official" : "Dufty, Bevan",
+  "date" : "2012-05-24T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-07-21T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-07-21T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-06-21T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2011-06-21T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Bevan Dufty For Mayor 2011",
+  "official" : "Dufty, Bevan",
+  "date" : "2010-07-19T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Zoe Dunning For Dccc 2012",
+  "official" : "Dunning, Zoe",
+  "date" : "2012-05-03T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "25000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Economic Recovery Sf",
+  "official" : "Economic Recovery Sf, Economic Recovery Sf",
+  "date" : "2010-10-05T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Engardio For D7 Supervisor",
+  "official" : "Engardio, Joel",
+  "date" : "2012-09-28T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Engardio For D7 Supervisor",
+  "official" : "Engardio, Joel",
+  "date" : "2012-09-28T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Joel Engardio D-7 Supervisor",
+  "official" : "Engardio, Joel",
+  "date" : "2012-10-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-12-02T00:00:00",
+  "sourceoffunds" : "Wright, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Mark Farrell For District 2 Supervisor",
+  "official" : "Farrell, Mark",
+  "date" : "2012-05-03T00:00:00",
+  "sourceoffunds" : "Wright, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Coalition For Better Housing",
+  "lobbyist" : "Turner, Brook",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-05-12T00:00:00",
+  "sourceoffunds" : "Turner, Brook"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Coalition For Better Housing",
+  "lobbyist" : "Turner, Brook",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Turner, Brook"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-11-15T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Mark Farrell For Supervisor",
+  "official" : "Farrell, Mark",
+  "date" : "2010-12-01T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-12-30T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-30T00:00:00",
+  "sourceoffunds" : "Hanson Bridgett Llp"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-12-19T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-12-01T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-10-22T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-12-09T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Aslanian-Williams, Dena",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Leong, Grace",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Ching, Allen",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "French, Lorrie",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Birmingham, Kevin",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Ito, Caryl",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Lee, John",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Luebkeman, Joel",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Jung, Mary",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Agid, Bruce",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "350.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Pak, Eugene",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Parry, David",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Taisch, Elizabeth",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Woo, Jeff",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Diltz, Don",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Navarro, Anthony",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Fernandes, Roque",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Mori, Sandy",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Fang, Ted",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Asdourian, John",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-29T00:00:00",
+  "sourceoffunds" : "Nutter, Melanie",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Lauter, Samuel",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Lauter, Stephanie",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Whitehurst, John",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Hanson, Lisa",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Mosher, Mark",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Witherspoon, Brad",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Cobane, Raymond",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Hirsch, Dan",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Sullivan, John",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Rodrick, Scott",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Latina, Dave",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Frazier, Laurel",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Frazier, Josh",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Hamalian, Seth",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Finnie, Charles",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Swig, Roselyn",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Dalton, Marty",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Dalton, Margaret",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "10000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "S.f. To Protect Retiree",
+  "official" : "Farrell, Mark",
+  "date" : "2013-09-16T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mark Farrell For Supervisor",
+  "official" : "Farrell, Mark",
+  "date" : "2010-12-13T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mark Farrell For Supervisor",
+  "official" : "Farrell, Mark",
+  "date" : "2010-10-25T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Re-Elect Supervisor Mark Farrell 2014",
+  "official" : "Farrell, Mark",
+  "date" : "2013-12-09T00:00:00",
+  "sourceoffunds" : "Peterson, Rich",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Public Advocacy Partners",
+  "lobbyist" : "Polacci, Bert",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-05-12T00:00:00",
+  "sourceoffunds" : "Polacci, Bernard"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Public Advocacy Partners",
+  "lobbyist" : "Polacci, Bert",
+  "payee" : "Re-Elect Supervisor Mark Farrell",
+  "official" : "Farrell, Mark",
+  "date" : "2014-01-23T00:00:00",
+  "sourceoffunds" : "Polacci, Bert"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Kaufman, Jon",
+  "payee" : "Mark Farrell For District 2 Supervisor 2010",
+  "official" : "Farrell, Mark",
+  "date" : "2011-12-20T00:00:00",
+  "sourceoffunds" : "Kaufman, Jon"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Solem, Don",
+  "payee" : "Mark Farrell For District 2 Supervisor 2010",
+  "official" : "Farrell, Mark",
+  "date" : "2011-12-20T00:00:00",
+  "sourceoffunds" : "Solem, Donald"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "San Franciscans For A Better Muni",
+  "official" : "For A Better Muni, San Franciscans",
+  "date" : "2010-06-02T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Mike Garcia For District 7 Supervisor",
+  "official" : "Garcia, Mike",
+  "date" : "2012-06-15T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "350.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Mike Garcia For San Francisco Supervisor District 7 2012",
+  "official" : "Garcia, Mike",
+  "date" : "2012-10-26T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Mike Garcia For San Francisco Supervisor District 7 2012",
+  "official" : "Garcia, Mike",
+  "date" : "2012-07-23T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Mike Garcia For District 7 Supervisor 2012",
+  "official" : "Garcia, Mike",
+  "date" : "2012-10-05T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Mike Garcia For Supervisor 2012",
+  "official" : "Garcia, Mike",
+  "date" : "2012-10-24T00:00:00",
+  "sourceoffunds" : "Vitlin, Mina"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Mike Garcia For Supervisor 2012",
+  "official" : "Garcia, Mike",
+  "date" : "2012-10-24T00:00:00",
+  "sourceoffunds" : "Collins, Lee"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Mike Garcia For Supervisor 2012",
+  "official" : "Garcia, Mike",
+  "date" : "2012-05-09T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Mike Garcia For District 7 Supervisor",
+  "official" : "Garcia, Mike",
+  "date" : "2012-10-17T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Philip Lesser",
+  "lobbyist" : "Lesser, Philip",
+  "payee" : "Mike Garcia For San Francisco",
+  "official" : "Garcia, Mike",
+  "date" : "2012-09-28T00:00:00",
+  "sourceoffunds" : "Lesser, Philip"
+}
+, {
+  "amount" : "5169.73",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Friend And Neighbors In Support Of Mike Garcia",
+  "official" : "Garcia, Mike",
+  "date" : "2012-11-28T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "15000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Friend And Neighbors In Support Of Mike Garcia",
+  "official" : "Garcia, Mike",
+  "date" : "2012-10-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "15000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Friend And Neighbors In Support Of Mike Garcia",
+  "official" : "Garcia, Mike",
+  "date" : "2012-07-02T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mike Garcia Supervisor",
+  "official" : "Garcia, Mike",
+  "date" : "2012-06-04T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Singer Associates, Inc.",
+  "lobbyist" : "Alberti, Adam",
+  "payee" : "Gascon For Da 2011",
+  "official" : "Gasc�n, George",
+  "date" : "2011-04-19T00:00:00",
+  "sourceoffunds" : "Singer, Sharon"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Gascon For Da 2011",
+  "official" : "Gasc�n, George",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Gascon For Da 2011",
+  "official" : "Gasc�n, George",
+  "date" : "2011-05-03T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "2500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Kamala Harris For Ag 2010",
+  "official" : "Harris, Kamala",
+  "date" : "2010-09-11T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "889.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Kamala Harris For Ag 2010",
+  "official" : "Harris, Kamala",
+  "date" : "2010-09-12T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "750.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Kamala Harris For Ag 2010",
+  "official" : "Harris, Kamala",
+  "date" : "2010-05-24T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "T. Y. Lin International",
+  "lobbyist" : "Rodman, Caroline",
+  "payee" : "Kamala Harris For Attorney General 2010",
+  "official" : "Harris, Kamala",
+  "date" : "2010-09-12T00:00:00",
+  "sourceoffunds" : "T. Y. Lin International"
+}
+, {
+  "amount" : "12900.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Kamala Harris For Attorney General 2010",
+  "official" : "Harris, Kamala",
+  "date" : "2010-09-24T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Susan Hirsch And Associates",
+  "lobbyist" : "Hirsch, Susan",
+  "payee" : "Kamala Harris For Attorney General 2010",
+  "official" : "Harris, Kamala",
+  "date" : "2010-04-29T00:00:00",
+  "sourceoffunds" : "Hirsch, Susan"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Dennis Herrera For Mayor Of San Francisco 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-06-10T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Dennis Herrera For City Attorney 2013",
+  "official" : "Herrera, Dennis",
+  "date" : "2013-03-22T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Singer Associates, Inc.",
+  "lobbyist" : "Alberti, Adam",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-04-15T00:00:00",
+  "sourceoffunds" : "Singer Associates, Inc."
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-05-17T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Daniller Consulting Inc.",
+  "lobbyist" : "Daniller-Katz, Gia",
+  "payee" : "Dennis Herrera For Mayor",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-09-25T00:00:00",
+  "sourceoffunds" : "Daniller, Gia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Dennis Herrera For City Attorney 2013",
+  "official" : "Herrera, Dennis",
+  "date" : "2013-11-15T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Dennis Herrera For Mayor",
+  "official" : "Herrera, Dennis",
+  "date" : "2010-12-10T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-01-27T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Dennis Herrera For City Attorney 2013",
+  "official" : "Herrera, Dennis",
+  "date" : "2013-10-16T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barnes, Mosher, Whitehurst, Lauter And Partners, Inc.",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2010-11-05T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Herrera City Atty",
+  "official" : "Herrera, Dennis",
+  "date" : "2013-09-30T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-09-22T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Dennis Herrera For City Attorney 2013",
+  "official" : "Herrera, Dennis",
+  "date" : "2013-10-16T00:00:00",
+  "sourceoffunds" : "Owen, David"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Dennis Herrera For City Attorney 2013",
+  "official" : "Herrera, Dennis",
+  "date" : "2013-06-19T00:00:00",
+  "sourceoffunds" : "Owen, David"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-01-27T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-07-20T00:00:00",
+  "sourceoffunds" : "Potashner, Eric"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Dennis Herrera For Mayor 2011",
+  "official" : "Herrera, Dennis",
+  "date" : "2011-06-29T00:00:00",
+  "sourceoffunds" : "Potashner, Eric"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Tom Hsieh For Sfdccc",
+  "official" : "Hsieh, Tom",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Tom Hsieh Dcc 2012",
+  "official" : "Hsieh, Tom",
+  "date" : "2012-04-30T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Tom Hsieh For Dcc",
+  "official" : "Hsieh, Tom",
+  "date" : "2010-05-24T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Chris Jackson For Supervisor",
+  "official" : "Jackson, Chris",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Chris Jackson For Supervisor 2010",
+  "official" : "Jackson, Chris",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Re-Elect Mary Jung For Dccc",
+  "official" : "Jung, Mary",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mary Jung Dcc",
+  "official" : "Jung, Mary",
+  "date" : "2012-05-12T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mary Jung Dcc",
+  "official" : "Jung, Mary",
+  "date" : "2012-05-12T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "Leslie Katz For Sfdcc",
+  "official" : "Katz, Leslie",
+  "date" : "2010-05-18T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Re-Elect Leslie Katz To Sfdccc",
+  "official" : "Katz, Leslie",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Tony Kelly For Supervisor 2010",
+  "official" : "Kelly, Tony",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Tony Kelly For Supervisor 2010",
+  "official" : "Kelly, Tony",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Jane Kim For Supervisor, 2010",
+  "official" : "Kim, Jane",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Jane Kim For Supervisor, 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-12-18T00:00:00",
+  "sourceoffunds" : "Vettel, Steve"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Jane Kim For Supervisor, 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-12-06T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Jane Kim For Supervisor, 2010",
+  "official" : "Kim, Jane",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-08T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Jane Kim For Supervisor 2010",
+  "official" : "Kim, Jane",
+  "date" : "2010-12-16T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-07T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac (#780657)"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Hearing, Jennifer"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-14T00:00:00",
+  "sourceoffunds" : "Pester, Robert"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-14T00:00:00",
+  "sourceoffunds" : "Pester, Cynthia"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-14T00:00:00",
+  "sourceoffunds" : "International Brotherhood Of Electrical Workers"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Acre, Joshua"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Ahn, Edward"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Bird, Mari"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Blaine, Gregory"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Esler, David"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Han, Helen"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Hudson, Ryan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Langelier, William"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Linsmayer, David"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Thomsen, Michael"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Pearson, Erich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Ua Local 38 Cope Fund - All Purpose (#746875)"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Wittorp, Randall"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-18T00:00:00",
+  "sourceoffunds" : "Paulson, Timothy"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-10-29T00:00:00",
+  "sourceoffunds" : "Golub, Sandra"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-10-29T00:00:00",
+  "sourceoffunds" : "Newman, Sheila"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-12-18T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2013-11-19T00:00:00",
+  "sourceoffunds" : "Owen, David",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Jane Kim For Supervisor 2010",
+  "official" : "Kim, Jane",
+  "date" : "2010-12-15T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Reuben, Junius & Rose, Llp",
+  "lobbyist" : "Reuben, James",
+  "payee" : "Jane Kim For Supervisor 2014",
+  "official" : "Kim, Jane",
+  "date" : "2014-06-04T00:00:00",
+  "sourceoffunds" : "Reuben, James A."
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Jane Kim For Supervisor 2010",
+  "official" : "Kim, Jane",
+  "date" : "2010-10-29T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Dewitt Lacy For Supervisor 2010",
+  "official" : "Lacy, Dewitt",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Dewitt Lacy For Supervisor 2010",
+  "official" : "Lacy, Dewitt",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "350.00",
+  "lobbyist_firm" : "T. Y. Lin International",
+  "lobbyist" : "Rodman, Caroline",
+  "payee" : "Dewitt Lacy For Supervisor",
+  "official" : "Lacy, Dewitt",
+  "date" : "2010-10-25T00:00:00",
+  "sourceoffunds" : "Rodman, Caroline"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Kaufman, Jon",
+  "payee" : "David Lee For San Francisco District 1 Supervisor 2012",
+  "official" : "Laee, David",
+  "date" : "2012-05-08T00:00:00",
+  "sourceoffunds" : "Kaufman, Jon"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Vriheas, Theadora",
+  "payee" : "David Lee 2012",
+  "official" : "Lee, David",
+  "date" : "2012-06-25T00:00:00",
+  "sourceoffunds" : "Vriheas, Theadora"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "David Lee For San Francisco District One Supervisor 2012",
+  "official" : "Lee, David",
+  "date" : "2012-06-14T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Solem, Don",
+  "payee" : "David Lee For San Francisco District 1 Supervisor 2012",
+  "official" : "Lee, David",
+  "date" : "2012-08-06T00:00:00",
+  "sourceoffunds" : "Solem, Don"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Solem, Don",
+  "payee" : "David Lee For San Francisco District 1 Supervisor 2012",
+  "official" : "Lee, David",
+  "date" : "2012-05-30T00:00:00",
+  "sourceoffunds" : "Solem, Don"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2011-12-14T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Vriheas, Theadora",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-03T00:00:00",
+  "sourceoffunds" : "Vriheas, Theadora"
+}
+, {
+  "amount" : "2350.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2012-04-03T00:00:00",
+  "sourceoffunds" : "Vettel, Steve"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2011-08-25T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Kls Consulting",
+  "lobbyist" : "Smith, Kimberly",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-09-24T00:00:00",
+  "sourceoffunds" : "Smith, Kimberly"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2011-12-14T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-12-18T00:00:00",
+  "sourceoffunds" : "Vitlin, Matthew"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-12-26T00:00:00",
+  "sourceoffunds" : "Chandler, Anag"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-12-28T00:00:00",
+  "sourceoffunds" : "Collins, Lee"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Kendrick, Steve"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Chen, Wilson"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Tour-Sarkissan, Christine"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Billingsley, Alan"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Hendricks, John"
+}
+, {
+  "amount" : "259.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Nicholas, Vincent"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Zira, Tahir"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Murphy, Mel"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Lum, John"
+}
+, {
+  "amount" : "50.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Cleaveland, Ken"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Jamison, David"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Marty, Eric"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Williams, Allison"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Chandler, Katherine"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Vitlin, Matthew"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Kelleher, Mark"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Chappell, James"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Maher, Bill"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Miller, Matthew"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Fraser, Katherine"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-09-21T00:00:00",
+  "sourceoffunds" : "David Nale"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Self",
+  "lobbyist" : "Gregg, Andrew",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-11-01T00:00:00",
+  "sourceoffunds" : "Gregg, Andrew",
+  "official_department" : "Mayor Office Of The"
+}
+, {
+  "amount" : "5000.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Mayor Ed Lee For San Francisco Committee",
+  "official" : "Lee, Ed",
+  "date" : "2014-06-13T00:00:00",
+  "sourceoffunds" : "San Francisco Association Of Realtors"
+}
+, {
+  "amount" : "10000.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Mayor Ed Lee For San Francisco",
+  "official" : "Lee, Ed",
+  "date" : "2013-11-08T00:00:00",
+  "sourceoffunds" : "California Association Of Realtors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-08-31T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Self",
+  "lobbyist" : "Lesser, Philip",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Ed",
+  "date" : "2011-09-16T00:00:00",
+  "sourceoffunds" : "Lesser, Philip"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Ed Lee Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2012-03-15T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Ed Lee Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2011-09-23T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Ed Lee Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2011-09-23T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Solem, Don",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Ed",
+  "date" : "2011-08-30T00:00:00",
+  "sourceoffunds" : "Solem, Donald"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Edwin",
+  "date" : "2011-09-20T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Daniller Consulting Inc.",
+  "lobbyist" : "Daniller-Katz, Gia",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Edwin",
+  "date" : "2012-01-16T00:00:00",
+  "sourceoffunds" : "Daniller, Gia"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Daniller Consulting Inc.",
+  "lobbyist" : "Daniller-Katz, Gia",
+  "payee" : "Ed Lee For Mayor",
+  "official" : "Lee, Edwin",
+  "date" : "2011-10-21T00:00:00",
+  "sourceoffunds" : "Daniller, Gia"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Solem & Associates",
+  "lobbyist" : "Kaufman, Jon",
+  "payee" : "Ed Lee For Mayor 2011",
+  "official" : "Lee, Edwin",
+  "date" : "2012-02-13T00:00:00",
+  "sourceoffunds" : "Kaufman, Jon"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "State Senate",
+  "official" : "Leno, Mark",
+  "date" : "2011-05-09T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Levitan For Dccc 2010",
+  "official" : "Levitan, Meagan",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Meagan Levitan Dcc",
+  "official" : "Levitan, Meagan",
+  "date" : "2012-05-01T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Levitan Dcc 2012",
+  "official" : "Levitan, Meagan",
+  "date" : "2012-05-01T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Levitan For Dcc",
+  "official" : "Levitan, Meagan",
+  "date" : "2010-05-03T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Levitan For Dccc",
+  "official" : "Levitan, Megan",
+  "date" : "2012-05-16T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Calvin Louiefor Dccc",
+  "official" : "Louie, Calvin",
+  "date" : "2010-04-14T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Fiona Ma For State Board Of Equalization 2012",
+  "official" : "Ma, Fiona",
+  "date" : "2012-02-13T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "Angelique Mahan For Dccc",
+  "official" : "Mahan, Angelique",
+  "date" : "2010-04-09T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Mandelman For Supervisor 2010",
+  "official" : "Mandelman , Rafael",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Mandelman For Supervisor 2010",
+  "official" : "Mandelman, Rafael",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Rafael Mandelman For Community Board 2012",
+  "official" : "Mandelman, Rafael",
+  "date" : "2012-09-14T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Rafael Mandelman For San Francisco Community College District Board 2012",
+  "official" : "Mandelman, Rafael",
+  "date" : "2012-12-01T00:00:00",
+  "sourceoffunds" : "Owen, David"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Mar For Dccc 2010",
+  "official" : "Mar, Eric",
+  "date" : "2010-05-14T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Re-Elect Supervisor Eric Mar",
+  "official" : "Mar, Eric",
+  "date" : "2012-11-09T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Re-Elect Supervisor Eric Mar 2012",
+  "official" : "Mar, Eric",
+  "date" : "2012-11-19T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "249.99",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Re-Elect Supervisor Eric Mar 2012",
+  "official" : "Mar, Eric",
+  "date" : "2012-09-27T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Re-Elect Supervisor Eric Mar 2012",
+  "official" : "Mar, Eric",
+  "date" : "2012-11-16T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Re-Elect Supervisor Eric Mar 2012",
+  "official" : "Mar, Eric",
+  "date" : "2012-09-12T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Re-Elect Supervisor Eric Mar 2012",
+  "official" : "Mar, Eric",
+  "date" : "2012-09-12T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Re-Elect Eric Mar Supervisor",
+  "official" : "Mar, Eric",
+  "date" : "2012-12-05T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Re-Elect Supervisor Eric Mar 2012",
+  "official" : "Mar, Eric",
+  "date" : "2012-12-06T00:00:00",
+  "sourceoffunds" : "Owen, David",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Re-Elect Supervisor Eric Mar 2012",
+  "official" : "Mar, Eric",
+  "date" : "2012-11-10T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "400.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Kim-Shree Maufas For Sf School Board",
+  "official" : "Maufas, Kim-Shree",
+  "date" : "2010-10-12T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Re-Elect Kim-Shree Maufas To Board Of Education 2010",
+  "official" : "Maufas, Kim-Shree",
+  "date" : "2011-01-20T00:00:00",
+  "sourceoffunds" : "Potashner, Eric"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Jim Meko For District 6 Supervisor 2010",
+  "official" : "Meko, Jim",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Jim Meko For District 6 Supervisor 2010",
+  "official" : "Meko, Jim",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Carole Migden For Dccc 2012",
+  "official" : "Migden, Carole",
+  "date" : "2012-04-06T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Carole Migden For Dccc 2010",
+  "official" : "Migden, Carole",
+  "date" : "2010-04-16T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Mirkarimi For Sheriff",
+  "official" : "Mirkarimi, Ross",
+  "date" : "2011-06-20T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Ross Mirkarimi For Sheriff, November 2011",
+  "official" : "Mirkarimi, Ross",
+  "date" : "2011-05-20T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Daniller Consulting Inc.",
+  "lobbyist" : "Daniller-Katz, Gia",
+  "payee" : "Ross Mirkarimi For Sheriff",
+  "official" : "Mirkarimi, Ross",
+  "date" : "2011-08-03T00:00:00",
+  "sourceoffunds" : "Daniller, Gia"
+}
+, {
+  "amount" : "452.90",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Ross Mirkarimi For Sheriff, November 2011",
+  "official" : "Mirkarimi, Ross",
+  "date" : "2011-05-20T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mirkarimi For Sheriff",
+  "official" : "Mirkarimi, Ross",
+  "date" : "2011-10-05T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Potashner, Eric",
+  "payee" : "Ross Mirkarimi For Sheriff 2011",
+  "official" : "Mirkarimi, Ross",
+  "date" : "2011-04-20T00:00:00",
+  "sourceoffunds" : "Potashner, Eric",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Self",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Paul Miyamoto For Sheriff 2011",
+  "official" : "Miyamoto, Paul",
+  "date" : "2011-10-18T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Miyamoto For Sheriff",
+  "official" : "Miyamoto, Paul",
+  "date" : "2011-10-18T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Miyamoto For Sheriff",
+  "official" : "Miyamoto, Paul",
+  "date" : "2011-10-18T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Moss For District 10 Supervisor",
+  "official" : "Moss, Steve",
+  "date" : "2010-05-25T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Steven Moss For District 10 Supervisor In 2010",
+  "official" : "Moss, Steven",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Steven Moss For District 10 Supervisor In 2010",
+  "official" : "Moss, Steven",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "San Francisco Democratic County Central Committee",
+  "official" : "N/a, N/a",
+  "date" : "2011-10-05T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "25000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Yes On C, No On D",
+  "official" : "N/a, N/a",
+  "date" : "2011-11-01T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "5000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Fix Our Streets",
+  "official" : "N/a, N/a",
+  "date" : "2011-10-31T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "2500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Mayor Ed Lee For San Francisco Committee",
+  "official" : "N/a, N/a",
+  "date" : "2012-11-15T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Fix Muni Now",
+  "official" : "N/a, N/a",
+  "date" : "2010-09-07T00:00:00",
+  "sourceoffunds" : "Barbary Coast Consulting"
+}
+, {
+  "amount" : "2468.92",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Citizens For Reliable Water And A Healthy Environment",
+  "official" : "N/a, N/a",
+  "date" : "2012-06-07T00:00:00",
+  "sourceoffunds" : "Platinum Advisors"
+}
+, {
+  "amount" : "328.89",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Fix Our Streets - Yes On B",
+  "official" : "N/a, N/a",
+  "date" : "2011-10-11T00:00:00",
+  "sourceoffunds" : "Platinum Advisors"
+}
+, {
+  "amount" : "2500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "S. F. Democratice Party",
+  "official" : "N/a, N/a",
+  "date" : "2014-04-04T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "3500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "S.f. For Better Muni",
+  "official" : "N/a, N/a",
+  "date" : "2010-09-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "2628.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Friends Supporting Debra Walker For Supervisor 2010",
+  "official" : "N/a, N/a",
+  "date" : "2010-10-01T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "7000.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Friends Supporting Debra Walker For Supervisor 2010",
+  "official" : "N/a, N/a",
+  "date" : "2010-10-15T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "2537.10",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Stand Up For San Francisco - No On Measures B & K / Yes On Measures J & N",
+  "official" : "N/a, N/a",
+  "date" : "2010-10-16T00:00:00",
+  "sourceoffunds" : "California Nurses Association"
+}
+, {
+  "amount" : "5074.20",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Stand Up For San Francisco - No On Measures B & K / Yes On Measures J & N",
+  "official" : "N/a, N/a",
+  "date" : "2010-10-21T00:00:00",
+  "sourceoffunds" : "California Nurses Association"
+}
+, {
+  "amount" : "10000.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Friends Supporting Debra Walker For Supervisor 2010",
+  "official" : "N/a, N/a",
+  "date" : "2010-10-25T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "7000.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Friends Supporting Debra Walker For Supervisor 2010",
+  "official" : "N/a, N/a",
+  "date" : "2010-10-27T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "10000.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Stand Up For San Francisco - No On Measures B And K/yes On Measures J And N",
+  "official" : "N/a, N/a",
+  "date" : "2010-08-13T00:00:00",
+  "sourceoffunds" : "California Nurses Association Initiative Committee"
+}
+, {
+  "amount" : "5000.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Boma Sf Ie Pac",
+  "official" : "N/a, San Franciscans For Better Muni",
+  "date" : "2010-06-01T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "24990.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Boma Sf Ie Pac",
+  "official" : "N/a, San Franciscans For Better Muni",
+  "date" : "2010-06-14T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Newsom For California�\u001A\u001A Lieutenant Governor-2010",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-07-29T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Newsom For California",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-03-17T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "2500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Newsom For California - Lt. Gov. 2010",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-05-17T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "5000.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Newsom For California - Lt. Gov. 2010",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-08-03T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "50.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Newsom For California Lieutenant Govenor",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-10-08T00:00:00",
+  "sourceoffunds" : "Meyers, Robert"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Newsom For California Lieutenant Govenor",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-05-25T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Barnes, Mosher, Whitehurst, Lauter And Partners, Inc.",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Newsom For California �\u001A\u001A Lieutenant Governor - 2010",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-11-03T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "2000.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Newsom For California - Lieutenant Governor 2010",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-09-14T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "12900.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Newsom For California - Lt. Governor 2010",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-08-17T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "12900.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Newsom For California - Lt. Governor 2010",
+  "official" : "Newsom, Gavin",
+  "date" : "2010-03-17T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac",
+  "official_department" : "Mayor Office Of The"
+}
+, {
+  "amount" : "750.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "No On F - Save Hetch Hetchy",
+  "official" : "None, None",
+  "date" : "2012-10-22T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "San Franciscans United For Pension & Health Reform",
+  "official" : "None, None",
+  "date" : "2011-10-20T00:00:00",
+  "sourceoffunds" : "Hms Associates"
+}
+, {
+  "amount" : "950.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Yes On Prop G",
+  "official" : "None, None",
+  "date" : "2010-10-29T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Alice B. Toklas",
+  "official" : "None, None",
+  "date" : "2014-06-13T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Alice B. Toklas",
+  "official" : "None, None",
+  "date" : "2013-06-05T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "2500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Sf Democratic Central Comm",
+  "official" : "None, None",
+  "date" : "2013-02-27T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Alice B. Toklas",
+  "official" : "None, None",
+  "date" : "2012-09-18T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Alice B. Toklas",
+  "official" : "None, None",
+  "date" : "2012-06-20T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Plan C-Pac",
+  "official" : "None, None",
+  "date" : "2012-05-23T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Alice B. Toklas",
+  "official" : "None, None",
+  "date" : "2012-04-11T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Alice B. Toklas",
+  "official" : "None, None",
+  "date" : "2011-05-14T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "5000.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Alice B. Toklas",
+  "official" : "None, None",
+  "date" : "2010-04-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Rachel Norton For Board Of Education",
+  "official" : "Norton, Rachel",
+  "date" : "2012-06-30T00:00:00",
+  "sourceoffunds" : "Wright, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Re-Elect Rachel Norton",
+  "official" : "Norton, Rachel",
+  "date" : "2012-10-16T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "15000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Yes On E, San Franciscans For Ballot Measure Reform, Supported By Supervisor Scott Wiener",
+  "official" : "Not Applicable, Not Applicable",
+  "date" : "2011-10-14T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "15000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "San Franciscans For A Better Muni",
+  "official" : "Not Applicable, Not Applicable",
+  "date" : "2010-06-15T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "30000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "San Franciscans For A Better Muni",
+  "official" : "Not Applicable, Not Applicable",
+  "date" : "2010-05-07T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "Re-Elect Melanie Nutter To The San Francisco Dccc",
+  "official" : "Nutter, Melanie",
+  "date" : "2010-05-18T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Christina Olague For Supervisor 2012",
+  "official" : "Olague, Christina",
+  "date" : "2012-06-21T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Singer Associates, Inc.",
+  "lobbyist" : "Alberti, Adam",
+  "payee" : "Christina Olague For Supervisor 2012",
+  "official" : "Olague, Christina",
+  "date" : "2012-06-26T00:00:00",
+  "sourceoffunds" : "Singer, Sam"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Christina Olague For Supervisor",
+  "official" : "Olague, Christina",
+  "date" : "2012-09-21T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Atg Consulting",
+  "lobbyist" : "Gregg, Andrew",
+  "payee" : "Christina Olague For Supervisor",
+  "official" : "Olague, Christina",
+  "date" : "2012-06-26T00:00:00",
+  "sourceoffunds" : "Gregg, Andrew"
+}
+, {
+  "amount" : "499.99",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Christina Olague For Supervisor 2012",
+  "official" : "Olague, Christina",
+  "date" : "2012-09-28T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Philip Lesser",
+  "lobbyist" : "Lesser, Philip",
+  "payee" : "Christina Olague For Supervisor 2012",
+  "official" : "Olague, Christina",
+  "date" : "2012-10-08T00:00:00",
+  "sourceoffunds" : "Lesser, Philip"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Onek For District Attorney 2011",
+  "official" : "Onek, David",
+  "date" : "2010-07-21T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Atg Consulting",
+  "lobbyist" : "Gregg, Andrew",
+  "payee" : "Onek For Da",
+  "official" : "Onek, David",
+  "date" : "2011-07-12T00:00:00",
+  "sourceoffunds" : "Gregg, Andrew"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Smiley, Libby",
+  "payee" : "Onek For District Attorney 2011",
+  "official" : "Onek, David",
+  "date" : "2010-10-20T00:00:00",
+  "sourceoffunds" : "Smiley, Libby"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "Aaron Peskin For Dccc 2010",
+  "official" : "Peskin, Aaron",
+  "date" : "2010-04-15T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Aaron Peskin For Dccc 2010",
+  "official" : "Peskin, Aaron",
+  "date" : "2010-04-16T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Police & Firefighters For Yes On B",
+  "official" : "Prop. B, Yes On",
+  "date" : "2010-05-25T00:00:00",
+  "sourceoffunds" : "Kendrick, Stephen"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Police & Firefighters For Yes On B",
+  "official" : "Prop. B, Yes On",
+  "date" : "2010-05-25T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Police & Firefighters For Yes On B",
+  "official" : "Prop. B, Yes On",
+  "date" : "2010-05-25T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Police & Firefighters For Yes On B",
+  "official" : "Prop. B, Yes On",
+  "date" : "2010-05-25T00:00:00",
+  "sourceoffunds" : "Casalou, Allan"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Yes On Prop. D",
+  "official" : "Prop. D, Yes On",
+  "date" : "2010-10-22T00:00:00",
+  "sourceoffunds" : "Barbary Coast Consulting"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Rebecca Prozan For Supervisor 2010",
+  "official" : "Prozan, Rebecca",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Rebecca Prozan For Supervisor 2010",
+  "official" : "Prozan, Rebecca",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barnes, Mosher, Whitehurst, Lauter And Partners, Inc.",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Rebecca Prozan For Supervisor",
+  "official" : "Prozan, Rebecca",
+  "date" : "2010-11-01T00:00:00",
+  "sourceoffunds" : "Lauter, Sam"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barnes, Mosher, Whitehurst, Lauter And Partners, Inc.",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Rebecca Prozan For Supervisor 2010",
+  "official" : "Prozan, Rebecca",
+  "date" : "2010-10-06T00:00:00",
+  "sourceoffunds" : "Lauter, Samuel"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Prozan For Supervisor",
+  "official" : "Prozan, Rebecca",
+  "date" : "2010-09-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "T. Y. Lin International",
+  "lobbyist" : "Rodman, Caroline",
+  "payee" : "Rebecca Prozan For Supervisor",
+  "official" : "Prozan, Rebecca",
+  "date" : "2010-10-13T00:00:00",
+  "sourceoffunds" : "Rodman, Caroline"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Janet Reilly For Supervisor 2010",
+  "official" : "Reilly, Janet",
+  "date" : "2010-03-25T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Janet Reilly For Supervisor",
+  "official" : "Reilly, Janet",
+  "date" : "2010-10-18T00:00:00",
+  "sourceoffunds" : "Iantorno, Sergio"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Janet Reilly For Supervisor",
+  "official" : "Reilly, Janet",
+  "date" : "2010-10-18T00:00:00",
+  "sourceoffunds" : "Ares Commercial Properties"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Janet Reilly For Supervisor",
+  "official" : "Reilly, Janet",
+  "date" : "2010-10-18T00:00:00",
+  "sourceoffunds" : "Khoshnevisan, Reza"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Janet Reilly D-2 Supervisor",
+  "official" : "Reilly, Janet",
+  "date" : "2010-10-19T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Janet Reilly D-2 Supervisor",
+  "official" : "Reilly, Janet",
+  "date" : "2010-10-26T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Janet Reilly For District 2 Supervisor",
+  "official" : "Reilly, Janet",
+  "date" : "2010-10-21T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Linda Richardson For Dccc",
+  "official" : "Richardson, Linda",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Mosher, Mark",
+  "payee" : "John Rizzo For District 5 Supervisor",
+  "official" : "Rizzo, John",
+  "date" : "2012-10-16T00:00:00",
+  "sourceoffunds" : "Mosher, Mark"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "T. Y. Lin International",
+  "lobbyist" : "Rodman, Caroline",
+  "payee" : "John Rizzo For College Board",
+  "official" : "Rizzo, John",
+  "date" : "2010-11-02T00:00:00",
+  "sourceoffunds" : "Rodman, Caroline"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Daniller Consulting Inc.",
+  "lobbyist" : "Daniller-Katz, Gia",
+  "payee" : "Sam Rodriguez For School Board",
+  "official" : "Rodriguez, Sam",
+  "date" : "2012-09-30T00:00:00",
+  "sourceoffunds" : "Daniller, Gia"
+}
+, {
+  "amount" : "25000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "San Franciscans For A Better Muni",
+  "official" : "San Franciscans For A Better Muni, San Franciscans For A Better Muni",
+  "date" : "2010-10-05T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "10000.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "San Franciscans For A Better Muni",
+  "official" : "San Franciscans For A Better Muni, San Franciscans For A Better Muni",
+  "date" : "2010-10-19T00:00:00",
+  "sourceoffunds" : "Committee On Jobs Government Reform Fund"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Yes On B, San Franciscans For Clean And Safe Neighborhood Parks",
+  "official" : "San Francisco, Clean & Safe Neighborhood Parks Bond",
+  "date" : "2012-09-25T00:00:00",
+  "sourceoffunds" : "Goodyear-Peterson, Llc"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Rodrigo Santos For Ccb 2012",
+  "official" : "Santos, Rodrigo",
+  "date" : "2012-03-21T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "2500.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Sf Dccc",
+  "official" : "Sf Dccc, Sf Dccc",
+  "date" : "2010-05-05T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Arlo Smith For Sfdccc",
+  "official" : "Smith, Arlo",
+  "date" : "2010-04-14T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Sparks For District 6 Supervisor 2010",
+  "official" : "Sparks , Theresa",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Theresa Sparks D-6",
+  "official" : "Sparks, Theresa",
+  "date" : "2010-07-28T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Crowley, Coleen",
+  "payee" : "Sparks For Six",
+  "official" : "Sparks, Theresa",
+  "date" : "2010-01-21T00:00:00",
+  "sourceoffunds" : "Crowley, Colleen"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "Catherine Stefani For Dccc",
+  "official" : "Stefani, Catherine",
+  "date" : "2010-04-15T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Catherine Stephanie For Dccc 2010",
+  "official" : "Stephanie, Catherine",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "1500.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Mike Sullivan For Dccc 2010",
+  "official" : "Sullivan, Mike",
+  "date" : "2010-02-26T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "750.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Mike Sullivan Dcc",
+  "official" : "Sullivan, Mike",
+  "date" : "2010-05-12T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Sweet For Supervisor 2010",
+  "official" : "Sweet, Lynette",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Sweet For Supervisor 2010",
+  "official" : "Sweet, Lynette",
+  "date" : "2010-04-20T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Sweet For Supervisor 2010",
+  "official" : "Sweet, Lynette",
+  "date" : "2010-09-29T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Sweet For Supervisor 2010",
+  "official" : "Sweet, Lynette",
+  "date" : "2010-10-25T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Committee On Jobs",
+  "lobbyist" : "Wright, Christopher",
+  "payee" : "Katy Tang For Supervisor",
+  "official" : "Tang, Katy",
+  "date" : "2013-05-08T00:00:00",
+  "sourceoffunds" : "Wright, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Coalition For Better Housing",
+  "lobbyist" : "Turner, Brook",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-04-03T00:00:00",
+  "sourceoffunds" : "Turner, Brook"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-05-10T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "At&t",
+  "lobbyist" : "Blakeman, Marc D.",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-04-04T00:00:00",
+  "sourceoffunds" : "Blakeman, Marc"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Reuben, Junius & Rose, Llp",
+  "lobbyist" : "Frattin, Daniel",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-06-19T00:00:00",
+  "sourceoffunds" : "Frattin, Daniel"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear Peterson Hayward & Associates",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-05-22T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-04-17T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2013-12-18T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-04-26T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear Peterson Hayward & Associates",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-05-22T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-04-17T00:00:00",
+  "sourceoffunds" : "Hayward, Boe",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "222.02",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Johnston, Karin",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-05-10T00:00:00",
+  "sourceoffunds" : "Johnston, Karin",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-04-02T00:00:00",
+  "sourceoffunds" : "Gold-Nocella, Paula"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-04-24T00:00:00",
+  "sourceoffunds" : "Baczkowski, Walter"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-04-24T00:00:00",
+  "sourceoffunds" : "Jung, Mary"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Jung, Mary",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-04-24T00:00:00",
+  "sourceoffunds" : "Lee, John"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Lapointe And Associates",
+  "lobbyist" : "Lapointe, Denise",
+  "payee" : "Tang For D4 Supervisor",
+  "official" : "Tang, Katy",
+  "date" : "2013-11-01T00:00:00",
+  "sourceoffunds" : "Lapointe, Denise"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-06-07T00:00:00",
+  "sourceoffunds" : "Lauter, Samuel",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Mogi, Viva",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-06-28T00:00:00",
+  "sourceoffunds" : "Mogi, Viva"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Katy Tang For Sup 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-04-03T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Katy Tang For Supervisor",
+  "official" : "Tang, Katy",
+  "date" : "2013-04-15T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Owen, David",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-04-26T00:00:00",
+  "sourceoffunds" : "Owen, David"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear Peterson Hayward & Associates",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-05-22T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Katy Tang For Supervisor 2013",
+  "official" : "Tang, Katy",
+  "date" : "2013-04-17T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Public Advocacy Partners",
+  "lobbyist" : "Polacci, Bert",
+  "payee" : "Katy Tang For Supervisor 2014",
+  "official" : "Tang, Katy",
+  "date" : "2014-04-03T00:00:00",
+  "sourceoffunds" : "Polacci, Bernard"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Phil Ting For Mayor 2011",
+  "official" : "Ting, Phil",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Phil Ting For Assessor 2010",
+  "official" : "Ting, Phil",
+  "date" : "2010-06-28T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Coalition For Better Housing",
+  "lobbyist" : "Turner, Brook",
+  "payee" : "Phil Ting For Assembly",
+  "official" : "Ting, Phil",
+  "date" : "2014-06-27T00:00:00",
+  "sourceoffunds" : "Turner, Brook"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Phil Ting For Assembly 2012",
+  "official" : "Ting, Phil",
+  "date" : "2012-04-30T00:00:00",
+  "sourceoffunds" : "Barbary Coast Consulting"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Phil Ting For Mayor 2011",
+  "official" : "Ting, Phil",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Phil Ting For Assembly 2012",
+  "official" : "Ting, Phil",
+  "date" : "2012-02-14T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Phil Ting For Mayor",
+  "official" : "Ting, Phil",
+  "date" : "2011-07-08T00:00:00",
+  "sourceoffunds" : "Gladstone & Associates"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Phil Ting For Mayor",
+  "official" : "Ting, Phil",
+  "date" : "2011-06-24T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Phil Ting For Mayor",
+  "official" : "Ting, Phil",
+  "date" : "2010-12-27T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Loeven And Associates",
+  "lobbyist" : "Loeven, Lewis",
+  "payee" : "Phil Ting For Assembly 2012",
+  "official" : "Ting, Phil",
+  "date" : "2012-06-01T00:00:00",
+  "sourceoffunds" : "Loeven, Lewis"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Loeven And Associates",
+  "lobbyist" : "Loeven, Lewis",
+  "payee" : "Phil Ting For Assembly 2012",
+  "official" : "Ting, Phil",
+  "date" : "2012-06-01T00:00:00",
+  "sourceoffunds" : "Loeven, Lewis"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Phil Ting Assessor 2010",
+  "official" : "Ting, Phil",
+  "date" : "2011-04-13T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Phil Ting Assessor 2010",
+  "official" : "Ting, Phil",
+  "date" : "2011-04-13T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "5000.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Fabris, James",
+  "payee" : "Phil Ting For Assembly 2012",
+  "official" : "Ting, Phil",
+  "date" : "2012-03-28T00:00:00",
+  "sourceoffunds" : "San Francisco Association Of Realtors"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Gca Strategies",
+  "lobbyist" : "Noto, Frank",
+  "payee" : "Phil Ting For Assessor 2010",
+  "official" : "Ting, Phil",
+  "date" : "2010-10-27T00:00:00",
+  "sourceoffunds" : "Noto, Frank"
+}
+, {
+  "amount" : "5000.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Alice B. Toklas Lgbt Democratic Vote",
+  "official" : "Toklas, Alice",
+  "date" : "2010-04-14T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "2000.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Tuchow For Dccc 2010",
+  "official" : "Tuchow, Matt",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Tuchow Dcc 2010",
+  "official" : "Tuchow, Matt",
+  "date" : "2010-05-12T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Committee To Retain Judge Ulmer 2010",
+  "official" : "Ulmer, Richard",
+  "date" : "2010-09-30T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac",
+  "official_department" : "311 Customer Service Center"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Committee To Retain Judge Ulmer 2010",
+  "official" : "Ulmer, Richard",
+  "date" : "2010-10-21T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "40.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Smiley, Libby",
+  "payee" : "Alex Volberding For Dccc, 2010",
+  "official" : "Volberding , Alex",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Smiley, Libby"
+}
+, {
+  "amount" : "700.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Alex Volberding For Dccc",
+  "official" : "Volberding, Alex",
+  "date" : "2010-04-14T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Debra Walker For Supervisor - 2010",
+  "official" : "Walker, Debra",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Debra Walker For Supervisor - 2010",
+  "official" : "Walker, Debra",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Debra Walker For Supervisor",
+  "official" : "Walker, Debra",
+  "date" : "2010-10-28T00:00:00",
+  "sourceoffunds" : "Klein, David"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Debra Walker For Dccc 2010",
+  "official" : "Walker, Debra",
+  "date" : "2010-04-16T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "178.63",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Debra Walker For Supervisor 2010",
+  "official" : "Walker, Debra",
+  "date" : "2010-09-28T00:00:00",
+  "sourceoffunds" : "Platinum Advisors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "California Nurses Association",
+  "lobbyist" : "Green, Nato",
+  "payee" : "Debra Walker For Supervisor 2010",
+  "official" : "Walker, Debra",
+  "date" : "2010-04-06T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Shamann Walton For School Board 2014",
+  "official" : "Walton, Shamann",
+  "date" : "2014-06-11T00:00:00",
+  "sourceoffunds" : "Lauter, Samuel"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Bmwl & Partners, Inc",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Shamann Walton For School Board 2014",
+  "official" : "Walton, Shamann",
+  "date" : "2014-05-03T00:00:00",
+  "sourceoffunds" : "Lauter, Samuel"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Jones, Dwayne",
+  "payee" : "Committee To Elect Shamann Walton For Sf Board Of Education 2012",
+  "official" : "Walton, Shamann",
+  "date" : "2012-09-05T00:00:00",
+  "sourceoffunds" : "Jones, Dwayne"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Scott Wiener For Supervisor 2010",
+  "official" : "Wiener, Scott",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Tao, Eric"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Massih, Amir"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Falconer, Cameron"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Golvin, Benjamin"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Murphy, Dan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Kaufman, Barbara"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Latina, Dave"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Smith, Josh"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Poland, Bill"
+}
+, {
+  "amount" : "300.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Williams, John"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Willis, John"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Podell, Nick"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Etherington, Simon"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Committee To Reelect Supervisor Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-01T00:00:00",
+  "sourceoffunds" : "Treaster, Merredith"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Farella Braun And Martel",
+  "lobbyist" : "Vettel, Steve",
+  "payee" : "Scott Wiener For Supervisor 2010",
+  "official" : "Wiener, Scott",
+  "date" : "2010-10-01T00:00:00",
+  "sourceoffunds" : "Vettel, Steven"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "Scott Wiener For Supervisor 2010",
+  "official" : "Wiener, Scott",
+  "date" : "2010-03-10T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Re-Elect Supervisor Scott Wiener 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-21T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Scott Wiener For Dccc 2012",
+  "official" : "Wiener, Scott",
+  "date" : "2012-02-16T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Hms Associates",
+  "lobbyist" : "Smolens, H. Marcia",
+  "payee" : "Scott Wiener For Supervisor",
+  "official" : "Wiener, Scott",
+  "date" : "2010-12-16T00:00:00",
+  "sourceoffunds" : "Smolens, H. Marcia"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Cheng, Jay",
+  "payee" : "Re-Elect Supervisor Scott Wiener 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-12-08T00:00:00",
+  "sourceoffunds" : "Cheng, Jay"
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "Building Owners And Managers Association Of San Francisco",
+  "lobbyist" : "Cleaveland, Ken",
+  "payee" : "Scott Wiener For Dccc 2010",
+  "official" : "Wiener, Scott",
+  "date" : "2010-04-13T00:00:00",
+  "sourceoffunds" : "Boma Sf Ie Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Scott Wiener For Supervisor 2010",
+  "official" : "Wiener, Scott",
+  "date" : "2010-05-27T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Hanson Bridgett Llp",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Re-Elect Supervisor Scott Wiener 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-10-11T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Wiener For Dccc 2012",
+  "official" : "Wiener, Scott",
+  "date" : "2012-04-06T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Wiener For Dccc 2012",
+  "official" : "Wiener, Scott",
+  "date" : "2012-03-13T00:00:00",
+  "sourceoffunds" : "Gladstone, Brett",
+  "official_department" : "Board Of Supervisors"
+}
+, {
+  "amount" : "150.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Weiner For Board Of Supervisors",
+  "official" : "Wiener, Scott",
+  "date" : "2010-11-24T00:00:00",
+  "sourceoffunds" : "Blumberg, David"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Weiner For Board Of Supervisors",
+  "official" : "Wiener, Scott",
+  "date" : "2010-10-02T00:00:00",
+  "sourceoffunds" : "Meier, Anthony"
+}
+, {
+  "amount" : "125.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Weiner For Board Of Supervisors",
+  "official" : "Wiener, Scott",
+  "date" : "2010-10-07T00:00:00",
+  "sourceoffunds" : "Linder, Alan"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Weiner For Board Of Supervisors",
+  "official" : "Wiener, Scott",
+  "date" : "2010-10-09T00:00:00",
+  "sourceoffunds" : "Wunderlich, Jo"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Weiner For Board Of Supervisors",
+  "official" : "Wiener, Scott",
+  "date" : "2010-10-10T00:00:00",
+  "sourceoffunds" : "Holland, Richard"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Gladstone & Associates",
+  "lobbyist" : "Gladstone, Brett",
+  "payee" : "Scott Weiner For Board Of Supervisors",
+  "official" : "Wiener, Scott",
+  "date" : "2010-10-18T00:00:00",
+  "sourceoffunds" : "Klein, David"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Re-Elect Supervisor Wiener 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-12-16T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Re-Elect Supervisor Scott Wiener 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-11-14T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Hayward, Boe",
+  "payee" : "Re-Elect Supervisor Wiener 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-12-19T00:00:00",
+  "sourceoffunds" : "Hayward, Boe"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barnes, Mosher, Whitehurst, Lauter And Partners, Inc.",
+  "lobbyist" : "Lauter, Samuel",
+  "payee" : "Scott Wiener For Supervisor 2010",
+  "official" : "Wiener, Scott",
+  "date" : "2011-02-10T00:00:00",
+  "sourceoffunds" : "Lauter, Samuel"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Scott Weiner 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-11-21T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sfaa",
+  "lobbyist" : "New, Janan",
+  "payee" : "Weiner For Sup 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-11-21T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "350.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Scott Weiner For Sup",
+  "official" : "Wiener, Scott",
+  "date" : "2010-10-01T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Scott Weiner For Sup",
+  "official" : "Wiener, Scott",
+  "date" : "2010-09-21T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Scott Weiner For Sup",
+  "official" : "Wiener, Scott",
+  "date" : "2010-09-21T00:00:00",
+  "sourceoffunds" : "New, Janan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Sf Apartment Association",
+  "lobbyist" : "New, Janan",
+  "payee" : "Scott Weiner Dcc",
+  "official" : "Wiener, Scott",
+  "date" : "2010-04-26T00:00:00",
+  "sourceoffunds" : "Sfaa-Pac"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Re-Elect Supervisor Wiener 2014",
+  "official" : "Wiener, Scott",
+  "date" : "2013-12-15T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Reuben, Junius & Rose, Llp",
+  "lobbyist" : "Reuben, James",
+  "payee" : "Campaign To Re-Elect Scott Wiener",
+  "official" : "Wiener, Scott",
+  "date" : "2014-01-21T00:00:00",
+  "sourceoffunds" : "Reuben, James A."
+}
+, {
+  "amount" : "1000.00",
+  "lobbyist_firm" : "San Francisco Association Of Realtors",
+  "lobbyist" : "Fabris, James",
+  "payee" : "Scott Wiener For Dccc 2012",
+  "official" : "Wiener, Scott",
+  "date" : "2012-05-02T00:00:00",
+  "sourceoffunds" : "San Francisco Association Of Realtors"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Barnes, Mosher, Whitehurst, Lauter And Partners, Inc.",
+  "lobbyist" : "Mosher, Mark",
+  "payee" : "Scott Weiner For Supervisor 2010",
+  "official" : "Wiener, Scott",
+  "date" : "2011-02-10T00:00:00",
+  "sourceoffunds" : "Mosher, Mark"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Rossi, Jaime",
+  "payee" : "Leland Yee For Mayor 2011",
+  "official" : "Yee, Leland",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Rossi, Jaime"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Barbary Coast Consulting",
+  "lobbyist" : "Clemens, Alex",
+  "payee" : "Leland Yee For Mayor 2011",
+  "official" : "Yee, Leland",
+  "date" : "2011-05-12T00:00:00",
+  "sourceoffunds" : "Clemens, Alex"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Goodyear, Charles",
+  "payee" : "Leland Yee For Mayor 2011",
+  "official" : "Yee, Leland",
+  "date" : "2011-03-15T00:00:00",
+  "sourceoffunds" : "Goodyear, Charles"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Goodyear-Peterson, Llc",
+  "lobbyist" : "Peterson, Rich",
+  "payee" : "Leland Yee For Mayor 2011",
+  "official" : "Yee, Leland",
+  "date" : "2011-03-15T00:00:00",
+  "sourceoffunds" : "Peterson, Rich"
+}
+, {
+  "amount" : "250.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Jones, Dwayne",
+  "payee" : "Leland Yee For Mayor 2011",
+  "official" : "Yee, Leland",
+  "date" : "2011-06-23T00:00:00",
+  "sourceoffunds" : "Jones, Dwayne"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-05T00:00:00",
+  "sourceoffunds" : "Ua Local 38 Cope Fund - All Purpose (#746875)"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-09T00:00:00",
+  "sourceoffunds" : "Hill, Jonathan"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Sheehy, Brian"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Blaine, Gregory"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Hearing, Jennifer"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Belmonte, Luis"
+}
+, {
+  "amount" : "200.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Byrne, Paul"
+}
+, {
+  "amount" : "100.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-11-12T00:00:00",
+  "sourceoffunds" : "Roth, Stanley"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-10-29T00:00:00",
+  "sourceoffunds" : "California Nurses Association Pac (#780657)"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-10-29T00:00:00",
+  "sourceoffunds" : "Rocca, Thomas"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Platinum Advisors",
+  "lobbyist" : "Gruwell, Chris",
+  "payee" : "Norman Yee For 2012 Supervisor District 7",
+  "official" : "Yee, Norman",
+  "date" : "2013-08-02T00:00:00",
+  "sourceoffunds" : "Gruwell, Chris"
+}
+, {
+  "amount" : "500.00",
+  "lobbyist_firm" : "Ground Floor Public Affairs",
+  "lobbyist" : "Tourk, Alex",
+  "payee" : "Sfyd June Slate Card",
+  "official" : "Young Democrats, San Francisco",
+  "date" : "2010-05-07T00:00:00",
+  "sourceoffunds" : "Ground Floor Public Affairs"
+}
+ ]
