@@ -1,16 +1,20 @@
 <div class='text-block' ng-controller="CandidatesCtrl">
 	<h2>Board of Supervisors</h2>
 	
-	<div ng-repeat="d in cand_list">
-	<h3>District  {{ d.dist }}</h3>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor vitae leo suscipit pellentesque. 
-	<br>
-	Neighborhoods : 
-  	</p>
-  	<br>
-	<ol class="" >
-		<li ng-repeat="cand in d.cands"><a ui-sref="candidatesNames({name: cand.naml})" >{{cand.namf + " " + cand.naml}} <small class="incm" ng-if="cand.isIncm"> -Incumbent</small></a></li>
-	</ol>
-	</div>
+	 <tabset>
+	    
+	    <tab ng-repeat="d in cand_list" heading="District {{d.dist}}" active="" disabled="">
+	      
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor vitae leo suscipit pellentesque. 
+			<br>
+			Neighborhoods : 
+		  	</p>
+		  	<br>
+			<ol class="" >
+				<li ng-repeat="cand in d.cands"><a ui-sref="candidatesNames({name: cand.naml})" >{{cand.namf + " " + cand.naml}} <small class="incm" ng-if="cand.isIncm"> -Incumbent</small></a></li>
+			</ol>
+	    </tab>
+	    	
+  	</tabset>
 
 </div>
