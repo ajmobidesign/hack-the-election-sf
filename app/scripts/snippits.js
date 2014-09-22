@@ -118,3 +118,110 @@ function capFirst(string)
 {
     return string.charAt(0).toUpperCase() + string.slice(1);
 }
+
+
+
+function computeSteam (spent, raised) {
+	var dataOb = {
+		maxVal:0,
+		minVal:0,
+		raisedFinal: [],
+		spentFinal: [],
+		allTrans:[]
+	};
+
+
+	spent.sort(function(a, b){
+					var dateA= timeformat(a.expn_date), dateB= timeformat(b.expn_date)
+						return dateA-dateB //sort by date ascending
+						})
+
+	
+	var spentTrans = [];
+	var amt =0;
+
+
+	spent.forEach(function (d) {
+			var ob = {};
+			var ob2 = {};
+			//console.log(d.amount, d.expn_date)
+			amt+=(parseFloat(d.amount)*-1 );
+			ob.amt = amt;
+			ob.date = timeformat(d.expn_date);
+			dataOb.spentFinal.push(ob);
+
+			ob2.amt = (parseFloat(d.amount)*-1 );
+			ob2.date = timeformat(d.expn_date);
+
+			spentTrans.push(ob2)
+					
+		});	
+
+		raised.forEach(function(d){
+			if(d.tran_date== undefined){
+						//console.log(d)
+						d.tran_date = d.rpt_date;
+				}
+
+				var amt = parseFloat(d.tran_amt1);
+
+				if(isNaN(amt)){
+						d.tran_amt1 = "0"
+				}
+				
+
+		});
+
+
+		raised.sort(function(a, b){
+					var dateA= timeformat(a.tran_date);
+					var dateB= timeformat(b.tran_date);
+						return dateA-dateB //sort by date ascending
+						})
+
+
+		
+		var raisedTrans = [];
+		var raisedamt =0;
+		raised.forEach(function (d) {
+			var ob = {};
+			var ob2 ={};
+			//console.log(d.amount, d.expn_date)
+			raisedamt+=(parseFloat(d.tran_amt1) );
+			ob.amt = raisedamt;
+			ob.date = timeformat(d.tran_date);
+			dataOb.raisedFinal.push(ob);
+
+			ob2.amt = (parseFloat(d.tran_amt1));
+			ob2.date = timeformat(d.tran_date);
+			raisedTrans.push(ob2)
+					
+		});	
+
+		dataOb.allTrans = spentTrans.concat(raisedTrans);
+
+			dataOb.allTrans.sort(function(a, b){
+					var dateA= a.date;
+					var dateB= b.date;
+						return dateA-dateB //sort by date ascending
+				});
+
+			var prev=0;
+			dataOb.allTrans.forEach(function (d, i) {
+				
+				prev+=d.amt;
+				d.amt = prev;
+				
+			});
+
+			dataOb.maxVal = d3.max(dataOb.raisedFinal, function (d) {
+				return d.amt
+			});
+			dataOb.minVal = d3.min(dataOb.spentFinal, function (d) {
+				return d.amt
+			})
+
+
+
+	return dataOb;
+}

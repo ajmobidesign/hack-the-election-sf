@@ -5,15 +5,30 @@ angular.module('appDirectives', [])
         		scope: {
             			'data': '='
        					 }, 
-        		link: link
-    			};
+        		link: link                };
+
 
     		function link(scope, element){
     			var ele = d3.select(element[0]);
-    			summaryViz(ele, scope.data)
+    			summaryViz(ele, scope.data);
     			
     		}
 		})
+        .directive('steamBlock', function () {
+             return {
+                restrict: 'EA',  
+                scope: {
+                        'data': '='
+                         }, 
+                link: link                };
+
+
+            function link(scope, element){
+                var ele = d3.select(element[0]);
+                summarySteam(ele, scope.data);
+                
+            }
+        })
 		.directive('schaBlock', function () {
 			 return {
         		restrict: 'EA', 

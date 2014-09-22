@@ -197,6 +197,7 @@
 	.area {
 	  fill: steelblue;
 	  fill:#3498DB;
+	  shape-rendering: crispEdges;
 	  opacity: .3;
 	}
 
@@ -352,7 +353,6 @@ td{
 	padding-top: 20px;
 	padding-bottom: 10px;
 }
-
 
 
 .data{

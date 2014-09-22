@@ -1,3 +1,213 @@
+function summarySteam(element, data){
+
+
+	var sumBalance = data[0];
+	var raised = data[1];
+	var spent = data[2];
+
+	var dataOb = computeSteam(spent, raised)
+
+	//console.log(spent)
+
+	var timeStart = '2013-01-01T00:00:00';
+	var timeEnd = '2014-06-31T00:00:00';
+
+	var timeScaleStart = timeformat('2013-07-01T00:00:00');
+	var timeSCaleEnd = timeformat('2014-06-31T00:00:00');
+
+	var timeDomain = [ timeScaleStart, timeSCaleEnd];
+	var tvals = [ timeformat('2013-07-01T00:00:00'), timeformat('2014-01-01T00:00:00'), timeformat('2014-06-31T00:00:00')];
+
+	//Need to make dynamic
+
+	var moneyDomain = [dataOb.maxVal, dataOb.minVal-35000]
+	//[350000, -90000];
+
+	var summary = element.select('#steam');
+
+	var width = $('#steam').width() -40;
+	var height = $('#steam').height() -40;
+
+	var svg = summary.append('svg')
+						.attr('width', width)
+						.attr('height', height)
+						.append('g')
+						.attr('transform', 'translate(0, 30)');
+
+	var x = d3.time.scale().range([20, width]).domain(timeDomain);
+	var y = d3.scale.linear().range([20, height]).domain(moneyDomain);
+
+	var xAxis = d3.svg.axis().scale(x).tickValues(tvals).tickFormat(monthDate).orient('bottom');
+	var yAxis = d3.svg.axis().scale(y).ticks(7).tickFormat(dollar).tickSize(width).orient('right');
+
+	var xLine = svg
+				.append('g')
+				.attr('class', 'x axis')
+				.call(xAxis)
+				.attr('transform', 'translate(0 ,'+ y(0) +')');
+				
+
+	var yLine = svg
+				.append('g')
+				.attr('class', 'y axis')
+				.call(yAxis)
+				.attr('transform', 'translate(25, 0)');
+
+				yLine.selectAll("text")
+		    	.attr("x", 4)
+		    	.attr("dy", -4);
+
+
+	var area = d3.svg.area()
+				.interpolate("cardinal")
+			    .x(function(d) { return x(d.date); })
+			    .y0(y(0))
+			    .y1(function(d) { return y(d.amt); });
+	
+		svg
+			.append('g')
+			.append('path')
+			.datum(dataOb.spentFinal)
+			.attr('class', 'down')
+			.style('fill', '#ca0020')
+			.attr('d', area)
+
+
+		svg
+			.append('g')
+			.append('path')
+			.datum(dataOb.raisedFinal)
+			.attr('class', 'up')
+			.style('fill', '#0571b0')
+			.attr('d', area)
+
+		svg
+			.append('g')
+			.append('path')
+			.datum(dataOb.allTrans)
+			.attr('class', 'balance')
+			.style('fill', '#92c5de')
+			.attr('d', area)
+			
+	//Stack experiment
+	var stackOb = [
+					{
+						"name": "Raised",
+						"value": dataOb.raisedFinal
+					}, 
+					{
+						"name": "Spent",
+						"value": dataOb.spentFinal
+					}, 
+					{
+						"name": "Balance",
+						"value": dataOb.spentFinal
+					}
+
+					]
+	
+
+	var stack =  d3.layout.stack()
+					.offset("wiggle")
+					.values(function(d) { return d.value; })
+				    .x(function(d) { return d.date; })
+				    .y(function(d) { return d.amt; });
+
+
+	var color = d3.scale.linear()
+    .range(["#aad", "#556"]);
+
+    console.log(stackOb)
+
+    svg
+    .append('g')
+    .selectAll("path")
+    .data(stackOb)
+  .enter().append("path")
+    .attr("d", area)
+    .style("fill", function() { return color(Math.random()); });
+
+
+				
+
+	//Side content containers			
+
+	var sumCtr = d3.select('#steam-ctr');
+	var sumCtrQ1 = d3.select('#steam-ctr .q1');
+	var sumCtrQ2 = d3.select('#steam-ctr .q2');
+	var sumCtrQ3 = d3.select('#steam-ctr .q3');
+
+
+
+	sumCtrQ3.style('height', '230px')
+
+		sumCtrQ1
+				.on('click', function(){
+					var ob = this;
+					slideboxToggle(sumCtr, ob);
+				})
+
+		sumCtrQ2
+				.on('click', function(){		
+					var ob = this;
+					slideboxToggle(sumCtr, ob);			
+				})
+
+		sumCtrQ3
+				.on('click', function(){
+					var ob = this;
+					slideboxToggle(sumCtr, ob);					
+				})					
+				
+
+	var mnQ3 = sumCtrQ3.select('.slide-content')
+			.datum(sumBalance[2])
+			.append('p');
+
+	var mnQ2 = sumCtrQ2.select('.slide-content')
+			.datum(sumBalance[1])
+			.append('p');
+
+	var mnQ1 = sumCtrQ1.select('.slide-content')
+			.datum(sumBalance[0])
+			.append('p');
+
+	function writeData(ob){
+
+			ob
+			.append('span')
+			.html(function(d){
+				return 'Raised : '+ dollar(Math.round(d.line_12 + d.line_13 + d.line_14)) + "<br>";
+			})
+
+			ob
+			.append('span')
+			.html(function(d){
+				return 'Spent : '+ dollar(Math.round(d.line_15)) + "<br>";
+			})
+
+			ob
+			.append('span')
+			.html(function(d){
+				return 'Remaining : '+ dollar(Math.round(d.line_16));
+			})
+
+	}
+
+	writeData(mnQ1);
+	writeData(mnQ2);
+	writeData(mnQ3);
+
+
+
+
+
+}
+
+
+
+
+
 function summaryViz (element, data) {
 
 	var timeDomain = [ timeformat('2013-01-01T00:00:00'), timeformat('2014-06-31T00:00:00')];
@@ -81,9 +291,6 @@ function summaryViz (element, data) {
 							slideboxToggle(sumCtr, ob);					
 						})					
 						
-									
-					      
-
 
 			var mnQ3 = sumCtrQ3.select('.slide-content')
 					.datum(data[2])

@@ -1,4 +1,4 @@
-[
+var ballots =[
 
 {
 	"title": "San Francisco Transportation and Road Improvement Bond",
@@ -302,4 +302,4 @@
 	}
 	
 
-]
+];
