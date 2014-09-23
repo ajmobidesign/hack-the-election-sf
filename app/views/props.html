@@ -9,11 +9,19 @@
 	      
 			<p>{{d.about}}</p>
 		  	<br>
-		  	<!--
-			<ol class="" >
-				<li ng-repeat="cand in d.cands"><a ui-sref="candidatesNames({name: cand.naml})" >{{cand.namf + " " + cand.naml}} <small class="incm" ng-if="cand.isIncm"> -Incumbent</small></a></li>
+		  	
+			<ol class="prop-for" >Committees in Support
+
+				<li ng-repeat="sup in d.cmt_for">
+					<a ui-sref="ballotCmtNames({name: sup.filer_naml[0]})">{{sup.filer_naml[0]}} </a>
+				</li>
 			</ol>
-		-->
+			<ol class="prop-against" >Committees Against
+				<li ng-repeat="sup in d.cmt_against.filer_naml">
+					<a ui-sref="ballotCmtNames({name: sup.filer_naml[0]})">{{sup.filer_naml[0]}} </a>
+				</li>
+			</ol>
+		
 	    </tab>
 	    	
   	</tabset>

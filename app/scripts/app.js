@@ -57,6 +57,28 @@ angular
           }
         }
       })
+      .state('ballotCmtNames', {
+        url: "/prop/:name/",
+        templateUrl: "/views/details.html", 
+        controller:'DetailsCtrl',
+        resolve:{
+          schA: function($stateParams, CommitteeFactory){
+            //var idx = nameIdx.indexOf($stateParams.name);
+            //var nm = brdIdx[idx].filer_naml;
+            return (new CommitteeFactory($stateParams.name)).getSchA();
+          },
+           schE: function($stateParams, CommitteeFactory){
+            //var idx = nameIdx.indexOf($stateParams.name);
+            //var nm = brdIdx[idx].filer_naml;
+            return (new CommitteeFactory($stateParams.name)).getSchE();
+          },
+           summary: function($stateParams, CommitteeFactory){
+            //var idx = nameIdx.indexOf($stateParams.name);
+            //var nm = brdIdx[idx].filer_naml;
+            return (new CommitteeFactory($stateParams.name)).getSum();
+          }
+        }
+      })
       .state('props', {
         url: "/props",
         templateUrl: "/views/props.html", 
