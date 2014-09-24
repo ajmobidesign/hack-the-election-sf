@@ -88,6 +88,8 @@ function summarySteam(element, data){
 			.attr('class', 'balance')
 			.style('fill', '#92c5de')
 			.attr('d', area)
+
+		
 			
 	//Stack experiment
 	var stackOb = [
@@ -101,7 +103,7 @@ function summarySteam(element, data){
 					}, 
 					{
 						"name": "Balance",
-						"value": dataOb.spentFinal
+						"value": dataOb.allTrans
 					}
 
 					]
@@ -121,9 +123,10 @@ function summarySteam(element, data){
 
     svg
     .append('g')
-    .selectAll("path")
+    .selectAll(".stack")
     .data(stackOb)
   .enter().append("path")
+  	.attr('class','stack')
     .attr("d", area)
     .style("fill", function() { return color(Math.random()); });
 

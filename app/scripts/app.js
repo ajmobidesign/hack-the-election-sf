@@ -89,6 +89,11 @@ angular
         templateUrl: "/views/blog.html", 
         controller:''
       })
+       .state('incumbents', {
+        url: "/incumbents",
+        templateUrl: "/views/incumbents.html", 
+        controller:''
+      })
     
 });
 

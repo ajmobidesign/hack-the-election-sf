@@ -1,7 +1,7 @@
 angular.module('angbaseApp')
-  .factory('CommitteeFactory', function ($q, $http) {
+  .factory('IncumbentCommitteeFactory', function ($q, $http) {
     return function(naml) {
-       //need to resolve how to get data if the json is 1000
+      //need to resolve how to get data if the json is 1000
       this.getSchA = function () {
         var url = 'http://data.sfgov.org/resource/q66q-d2tr.json?filer_naml='+naml;
         var filepath = 'scripts/data/f_2010.json'

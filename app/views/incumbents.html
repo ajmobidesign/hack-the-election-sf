@@ -1,0 +1,35 @@
+<div class='text-block' ng-controller="CandidatesCtrl">
+	<h2>Incumbents</h2>
+	
+	 <tabset>
+	    
+	    <tab ng-repeat="d in incumbents" heading= "{{d.namf + ' ' + d.naml}}" active="" disabled="">
+	      
+	    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque ultrices neque at aliquet. Cras eget ligula a lorem lacinia dignissim vitae eu leo. Maecenas fringilla iaculis libero, a sagittis ligula porta eu.</p>
+	    <br>
+
+	    <h4>List of Past Committees</h4>
+	    	<ol class="" >
+				<li ng-repeat="cmt in d.past">{{cmt.filer_naml}}</li>
+			</ol>
+
+	      <button class="btn btn-primary"> See Visualizaion</button>
+
+	    <p>Relationship with Lobbyists</p>
+
+	   <p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque ultrices neque at aliquet. Cras eget ligula a lorem lacinia dignissim vitae eu leo. Maecenas fringilla iaculis libero, a sagittis ligula porta eu."</p>
+
+	   <p>Who has lobbied them? For what?</p>
+
+	    <button class="btn btn-primary">See Visualization</button>
+			
+		  	<!--
+			<ol class="" >
+				<li ng-repeat="cand in d.cands"><a ui-sref="" >{{cand.namf + " " + cand.naml}} <small class="incm" ng-if="cand.isIncm"> -Incumbent</small></a></li>
+			</ol>
+			-->
+	    </tab>
+	    	
+  	</tabset>
+
+</div>

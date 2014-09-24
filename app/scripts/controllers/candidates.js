@@ -11,6 +11,9 @@ angular.module('angbaseApp')
   .controller('CandidatesCtrl', function ($scope) {
 
   	$scope.cand_list = brdOSup;
+  	$scope.incumbents = incum;
+
+
   	
 
   })
