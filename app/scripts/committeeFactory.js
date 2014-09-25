@@ -4,7 +4,7 @@ angular.module('angbaseApp')
        //need to resolve how to get data if the json is 1000
       this.getSchA = function () {
         var url = 'http://data.sfgov.org/resource/q66q-d2tr.json?filer_naml='+naml;
-        var filepath = 'scripts/data/f_2010.json'
+        console.log(url)
         var deferred = $q.defer(),
           httpPromise = $http.get(url);
  
@@ -18,7 +18,7 @@ angular.module('angbaseApp')
       };
       this.getSchE=function () {
         var url = 'http://data.sfgov.org/resource/hc26-j9if.json?filer_naml='+naml;
-        var filepath = 'scripts/data/e.json'
+        
         var deferred = $q.defer(),
           httpPromise = $http.get(url);
  

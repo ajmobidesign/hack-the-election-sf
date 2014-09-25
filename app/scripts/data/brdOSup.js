@@ -14,9 +14,7 @@ var brdOSup=[
 								{"filer_naml": "Mark Farrell for District 2 Supervisor 2010",
 								 "filer_id": "1320480"},
 								{"filer_naml": "Common Sense Voters, SF 2010; Vote for Mark Farrell for District 2 Supervisor",
-								 "filer_id": "1332919"},
-								{"filer_naml": "Re-Elect Supervisor Mark Farrell 2014",
-								 "filer_id": "1357023"}
+								 "filer_id": "1332919"}
 								 ]
 
 					},
@@ -41,8 +39,7 @@ var brdOSup=[
 						"filer_naml":"KATY TANG FOR SUPERVISOR 2014",
 						"isIncm":true, 
 						"past": [
-								{"filer_naml": "KATY TANG FOR SUPERVISOR 2014",
-								 "filer_id": "1361966"},
+								
 								{"filer_naml": "KATY TANG FOR SUPERVISOR 2013",
 								 "filer_id": "1356256"}
 								 ]
@@ -65,9 +62,8 @@ var brdOSup=[
 								{"filer_naml": "Jane Kim for School Board - 1289332",
 								 "filer_id": "1289332"},
 								{"filer_naml": "Jane Kim for Supervisor, 2010",
-								 "filer_id": "1324277"},
-								{"filer_naml": "Jane Kim for Supervisor, 2014",
-								 "filer_id": "1361734"}
+								 "filer_id": "1324277"}
+								
 								 ]
 
 					},
@@ -147,9 +143,7 @@ var brdOSup=[
 								{"filer_naml": "Yes on E, San Franciscans for Ballot Measure Reform, Supported by Supervisor Scott Wiener",
 								 "filer_id": "1340708"},
 								{"filer_naml": "Scott Wiener for DCCC 2012",
-								 "filer_id": "1259078"},
-								{"filer_naml": "Re-Elect Supervisor Scott Wiener 2014",
-								 "filer_id": "1360789"}
+								 "filer_id": "1259078"}
 								 ]
 
 					}
@@ -169,9 +163,7 @@ var brdOSup=[
 								{"filer_naml": "Malia Cohen For Supervisor 2010",
 								 "filer_id": "1321410"},
 								{"filer_naml": "Malia Cohen for Democratic County Central Committee 2012",
-								 "filer_id": "1345779"},
-								{"filer_naml": "Re-Elect Malia Cohen for Supervisor 2014",
-								 "filer_id": "1359986"}
+								 "filer_id": "1345779"}
 								 ]
 
 					},

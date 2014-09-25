@@ -44,6 +44,7 @@ angular
             var idx = nameIdx.indexOf($stateParams.name);
             var nm = brdIdx[idx].filer_naml;
             return (new CommitteeFactory(nm)).getSchA();
+           
           },
            schE: function($stateParams, CommitteeFactory){
             var idx = nameIdx.indexOf($stateParams.name);
@@ -63,18 +64,12 @@ angular
         controller:'DetailsCtrl',
         resolve:{
           schA: function($stateParams, CommitteeFactory){
-            //var idx = nameIdx.indexOf($stateParams.name);
-            //var nm = brdIdx[idx].filer_naml;
             return (new CommitteeFactory($stateParams.name)).getSchA();
           },
            schE: function($stateParams, CommitteeFactory){
-            //var idx = nameIdx.indexOf($stateParams.name);
-            //var nm = brdIdx[idx].filer_naml;
             return (new CommitteeFactory($stateParams.name)).getSchE();
           },
            summary: function($stateParams, CommitteeFactory){
-            //var idx = nameIdx.indexOf($stateParams.name);
-            //var nm = brdIdx[idx].filer_naml;
             return (new CommitteeFactory($stateParams.name)).getSum();
           }
         }
@@ -93,6 +88,22 @@ angular
         url: "/incumbents",
         templateUrl: "/views/incumbents.html", 
         controller:''
+      })
+      .state('incumbentIds', {
+        url: "/incumbents/:id/",
+        templateUrl: "/views/details.html", 
+        controller:'DetailsCtrl',
+        resolve:{
+          schA: function($stateParams, IncumbentCommitteeFactory){
+            return (new IncumbentCommitteeFactory($stateParams.id)).getSchA();
+          },
+           schE: function($stateParams, IncumbentCommitteeFactory){
+            return (new IncumbentCommitteeFactory($stateParams.id)).getSchE();
+          },
+           summary: function($stateParams, IncumbentCommitteeFactory){
+            return (new IncumbentCommitteeFactory($stateParams.id)).getSum();
+          }
+        }
       })
     
 });

@@ -10,7 +10,7 @@
 
 	    <h4>List of Past Committees</h4>
 	    	<ol class="" >
-				<li ng-repeat="cmt in d.past">{{cmt.filer_naml}}</li>
+				<li ng-repeat="cmt in d.past"><a ui-sref="incumbentIds({id: cmt.filer_id})">{{cmt.filer_naml}}</a></li>
 			</ol>
 
 	      <button class="btn btn-primary"> See Visualizaion</button>
