@@ -2,10 +2,7 @@
 
 function summaryProcess (data) {
 
-	data.forEach(function(d){
-		console.log(d.from_date)
-		console.log(d.thru_date)
-	})
+
 	
 	var period1={'dates': ['2013-01-01T00:00:00', '2013-06-30T00:00:00'],
 	'line_12': 0,
@@ -127,6 +124,8 @@ function capFirst(string)
 
 
 function computeSteam (spent, raised) {
+
+	
 	var dataOb = {
 		maxVal:0,
 		minVal:0,
@@ -134,6 +133,22 @@ function computeSteam (spent, raised) {
 		spentFinal: [],
 		allTrans:[]
 	};
+
+
+	console.log(dataOb)
+
+	var spentClean;
+
+	spent.forEach(function (d, i) {
+		var date = d.expn_date;
+		if(date == undefined){
+			console.log(date, d)
+			spentClean = spent.splice(i, 1);
+			
+		}
+	})
+
+
 
 
 	spent.sort(function(a, b){
@@ -161,6 +176,8 @@ function computeSteam (spent, raised) {
 			spentTrans.push(ob2)
 					
 		});	
+
+	
 
 		raised.forEach(function(d){
 			if(d.tran_date== undefined){
@@ -203,6 +220,8 @@ function computeSteam (spent, raised) {
 					
 		});	
 
+
+
 		dataOb.allTrans = spentTrans.concat(raisedTrans);
 
 			dataOb.allTrans.sort(function(a, b){
@@ -226,7 +245,7 @@ function computeSteam (spent, raised) {
 				return d.amt
 			})
 
-
+			//console.log(dataOb)
 
 	return dataOb;
 }

@@ -10,6 +10,16 @@ var timeformat = function (date) {
 }
 
 
+var r =   d3
+          .scale.pow().exponent(.6)
+          .domain([0, 13000])
+          .range([5, 30]);
+
+var r2 =   d3
+            .scale.pow().exponent(.6)
+            .domain([0, 13000])
+            .range([5, 30]);
+
 
 /*Toggle*/
 

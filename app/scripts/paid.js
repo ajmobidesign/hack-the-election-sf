@@ -1,4 +1,10 @@
+function paidNoData (element) {
 
+	var el = element.select('#ppl-paid');
+
+	el.append('h3').html("No Data Available")
+	// body...
+}
 
 function paid(element, data){
 	//console.log(data)
@@ -85,16 +91,12 @@ function paid(element, data){
 	})
 
 
-	var r2 =   d3
-	          .scale.pow().exponent(.6)
-	          .domain([0, 5000])
-	          .range([0, 30]);
-
 
 	var force2 = d3.layout.force()
 	                     .nodes(obsW)
 	                     .friction(0.9)
-	                     .charge(function(d){return -d.amt*.04})
+	                     //.charge(function(d){return -d.amt*.04})
+	                     .charge(function(d){return -d.amt*.015})
 	                    .size([width2, height2]);
 
 	var drag = force2.drag()

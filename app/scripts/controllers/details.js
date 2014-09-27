@@ -12,8 +12,15 @@ angular.module('angbaseApp')
 
 	$scope.sumData = summaryProcess(summary.data);
 	$scope.schAData = schA.data;
-	console.log(schA.data.length)
+	
 	$scope.schEData= schE.data;
+	$scope.fullSum = summary.data;
+
+	//console.log($scope.fullSum)
+
+	//console.log(summary.data.length, schA.data.length, schE.data.length);
+
+
 
 
   });

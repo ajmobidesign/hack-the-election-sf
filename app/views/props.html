@@ -17,8 +17,8 @@
 				</li>
 			</ol>
 			<ol class="prop-against" >Committees Against
-				<li ng-repeat="sup in d.cmt_against.filer_naml">
-					<a ui-sref="ballotCmtNames({name: sup.filer_naml[0]})">{{(sup.filer_naml[0]).toLowerCase()}} </a>
+				<li ng-repeat="ag in d.cmt_against">
+					<a ui-sref="ballotCmtNames({name: ag.filer_naml[0]})">{{(ag.filer_naml[0]).toLowerCase()}} </a>
 				</li>
 			</ol>
 		

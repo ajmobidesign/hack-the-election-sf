@@ -1,3 +1,10 @@
+function bubblesNoData (element) {
+
+	var el = element.select('#sch_A');
+
+	el.append('h3').html("No Data Available")
+	// body...
+}
 
 
 function  bubbles(element, data) {
@@ -18,10 +25,6 @@ function  bubbles(element, data) {
 				      .attr('width', width)
 				      .attr('height', height);
 
-				var r =   d3
-				          .scale.pow().exponent(.6)
-				          .domain([0, 5000])
-				          .range([0, 30]);
 
 				var maxRadius = 30;
 
