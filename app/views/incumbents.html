@@ -10,12 +10,12 @@
 
 	    <h4>List of Past Committees</h4>
 	    	<ol class="" >
-				<li ng-repeat="cmt in d.past"><a ui-sref="incumbentIds({id: cmt.filer_id})">{{cmt.filer_naml}}</a></li>
+				<li ng-repeat="cmt in d.past"><a ui-sref="incumbentIds({id: cmt.filer_id})">{{(cmt.filer_naml).toLowerCase()}}</a></li>
 			</ol>
 
-	      <button class="btn btn-primary"> See Visualizaion</button>
+	    
 
-	    <p>Relationship with Lobbyists</p>
+	    <h4>Relationship with Lobbyists</h4>
 
 	   <p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque ultrices neque at aliquet. Cras eget ligula a lorem lacinia dignissim vitae eu leo. Maecenas fringilla iaculis libero, a sagittis ligula porta eu."</p>
 

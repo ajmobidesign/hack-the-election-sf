@@ -7,7 +7,7 @@ function summarySteam(element, data){
 
 	var dataOb = computeSteam(spent, raised)
 
-	//console.log(spent)
+	
 
 	var timeStart = '2013-01-01T00:00:00';
 	var timeEnd = '2014-06-31T00:00:00';

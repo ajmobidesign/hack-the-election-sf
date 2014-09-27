@@ -216,7 +216,8 @@ for (d in brdOSup){
 	//console.log(d, cans)
 	brdIdx = brdIdx.concat(cans);
 	for (can in cans){
-		var candidate = cans[can]
+		var candidate = cans[can];
+			
 		nameIdx.push(candidate.naml);
 		if(candidate.isIncm){
 			incum.push(candidate);

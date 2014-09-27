@@ -5,6 +5,12 @@
 		padding-top:70px;
 	}
 
+	ol >li>a{
+		
+		text-transform: capitalize !important;
+	}
+
+
 	#main{
 		width:1000px;
 		margin: 0 auto; 
@@ -131,6 +137,7 @@
 
 	#details.text-block h2{
 		font-size: 30px;
+		text-transform: capitalize !important;
 	}
 
 

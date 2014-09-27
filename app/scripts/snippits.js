@@ -1,6 +1,11 @@
 //Summary Process
 
 function summaryProcess (data) {
+
+	data.forEach(function(d){
+		console.log(d.from_date)
+		console.log(d.thru_date)
+	})
 	
 	var period1={'dates': ['2013-01-01T00:00:00', '2013-06-30T00:00:00'],
 	'line_12': 0,
