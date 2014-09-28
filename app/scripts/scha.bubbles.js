@@ -9,7 +9,7 @@ function bubblesNoData (element) {
 
 function  bubbles(element, data) {
 	//console.log(data)
-					var entities = ['IND', 'OTH', 'COM', 'SCC', 'PTY'];
+				var entities = ['IND', 'OTH', 'COM', 'SCC', 'PTY'];
 				var clrScale = d3.scale.ordinal()
 				                .domain(entities)
 				                .range(['#12b3d6', '#0e6aa4', '#FF0B9B', '#fc5d2c', '#0CD102']);
@@ -33,7 +33,8 @@ function  bubbles(element, data) {
 				                     .friction(0.9)
 				                     //.gravity(.2)
 				                     //.charge(0)
-				                     .charge(-5)
+				                     //.charge(-5).charge(function(d){return -d.amt*.015})
+				                     .charge(function(d){return - d.tran_amt1*.015})
 				                     //.chargeDistance(10000)
 				                    .size([width, height]);
 
@@ -44,7 +45,7 @@ function  bubbles(element, data) {
 				var schaCtrQ2 = d3.select('#sch_A-ctr .q2');
 				var schaCtrQ3 = d3.select('#sch_A-ctr .q3');
 
-				schaCtrQ3.style('height', '230px')
+				schaCtrQ3.style('height', '150px')
 
 				schaCtrQ1
 				      .on('click', function(){

@@ -133,118 +133,13 @@ function summarySteam(element, data){
 			.style('fill', '#92c5de')
 			.attr('d', area)
 
-		
-			
-	//Stack experiment
-	var stackOb = [
-					{
-						"name": "Raised",
-						"value": dataOb.raisedFinal
-					}, 
-					{
-						"name": "Spent",
-						"value": dataOb.spentFinal
-					}, 
-					{
-						"name": "Balance",
-						"value": dataOb.allTrans
-					}
-
-					]
-	
-
-	var stack =  d3.layout.stack()
-					.offset("wiggle")
-					.values(function(d) { return d.value; })
-				    .x(function(d) { return d.date; })
-				    .y(function(d) { return d.amt; });
-
-
-	var color = d3.scale.linear()
-    .range(["#aad", "#556"]);
-
-    console.log(stackOb)
-
-    svg
-    .append('g')
-    .selectAll(".stack")
-    .data(stackOb)
-  .enter().append("path")
-  	.attr('class','stack')
-    .attr("d", area)
-    .style("fill", function() { return color(Math.random()); });
-
-
 				
 
 	//Side content containers			
 
-	var sumCtr = d3.select('#steam-ctr');
-	var sumCtrQ1 = d3.select('#steam-ctr .q1');
-	var sumCtrQ2 = d3.select('#steam-ctr .q2');
-	var sumCtrQ3 = d3.select('#steam-ctr .q3');
+	var sumCtr = d3.select('#steam-ctr .slide-container');
 
-
-
-	sumCtrQ3.style('height', '230px')
-
-		sumCtrQ1
-				.on('click', function(){
-					var ob = this;
-					slideboxToggle(sumCtr, ob);
-				})
-
-		sumCtrQ2
-				.on('click', function(){		
-					var ob = this;
-					slideboxToggle(sumCtr, ob);			
-				})
-
-		sumCtrQ3
-				.on('click', function(){
-					var ob = this;
-					slideboxToggle(sumCtr, ob);					
-				})					
-				
-
-	var mnQ3 = sumCtrQ3.select('.slide-content')
-			.datum(sumBalance[2])
-			.append('p');
-
-	var mnQ2 = sumCtrQ2.select('.slide-content')
-			.datum(sumBalance[1])
-			.append('p');
-
-	var mnQ1 = sumCtrQ1.select('.slide-content')
-			.datum(sumBalance[0])
-			.append('p');
-
-	function writeData(ob){
-
-			ob
-			.append('span')
-			.html(function(d){
-				return 'Raised : '+ dollar(Math.round(d.line_12 + d.line_13 + d.line_14)) + "<br>";
-			})
-
-			ob
-			.append('span')
-			.html(function(d){
-				return 'Spent : '+ dollar(Math.round(d.line_15)) + "<br>";
-			})
-
-			ob
-			.append('span')
-			.html(function(d){
-				return 'Remaining : '+ dollar(Math.round(d.line_16));
-			})
-
-	}
-
-	writeData(mnQ1);
-	writeData(mnQ2);
-	writeData(mnQ3);
-
+	renderSlideBox(sumCtr, sumBalance)
 
 
 
@@ -274,7 +169,7 @@ function summaryViz (element, dt) {
 						return d.line_15*-1;
 					})
 
-	var moneyDomain = [moneyMax, moneyMin];
+	var moneyDomain = [moneyMax+500, moneyMin-500];
 
 	console.log(moneyDomain)
 
@@ -396,74 +291,9 @@ function summaryViz (element, dt) {
 
 
 
-			var sumCtr = d3.select('#steam-ctr');
-			var sumCtrQ1 = d3.select('#steam-ctr .q1');
-			var sumCtrQ2 = d3.select('#steam-ctr .q2');
-			var sumCtrQ3 = d3.select('#steam-ctr .q3');
+	var sumCtr = d3.select('#steam-ctr .slide-container');
 
-
-
-			sumCtrQ3.style('height', '230px')
-
-				sumCtrQ1
-						.on('click', function(){
-							var ob = this;
-							slideboxToggle(sumCtr, ob);
-						})
-
-				sumCtrQ2
-						.on('click', function(){		
-							var ob = this;
-							slideboxToggle(sumCtr, ob);			
-						})
-
-				sumCtrQ3
-						.on('click', function(){
-							var ob = this;
-							slideboxToggle(sumCtr, ob);					
-						})					
-						
-
-			var mnQ3 = sumCtrQ3.select('.slide-content')
-					.datum(data[2])
-					.append('p');
-
-			var mnQ2 = sumCtrQ2.select('.slide-content')
-					.datum(data[1])
-					.append('p');
-
-			var mnQ1 = sumCtrQ1.select('.slide-content')
-					.datum(data[0])
-					.append('p');
-
-			function writeData(ob){
-
-					ob
-					.append('span')
-					.html(function(d){
-						return 'Raised : '+ dollar(Math.round(d.line_12 + d.line_13 + d.line_14)) + "<br>";
-					})
-
-					ob
-					.append('span')
-					.html(function(d){
-						return 'Spent : '+ dollar(Math.round(d.line_15)) + "<br>";
-					})
-
-					ob
-					.append('span')
-					.html(function(d){
-						return 'Remaining : '+ dollar(Math.round(d.line_16));
-					})
-
-			}
-
-			writeData(mnQ1);
-			writeData(mnQ2);
-			writeData(mnQ3);
-
-		
-
+	renderSlideBox(sumCtr, data)
 					
 
 

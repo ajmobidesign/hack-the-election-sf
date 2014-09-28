@@ -23,6 +23,61 @@ var r2 =   d3
 
 /*Toggle*/
 
+function renderSlideBox (ele, data) {
+
+  console.log(data)
+
+  data.forEach(function (d, i) {
+    console.log(d)
+    var container = ele
+                  .append('div')
+                  .attr('class', 'slidebox q'+i)
+                  .on('click', function(){
+                      var ob = this;
+                      slideboxToggle(ele, ob);
+                    });
+
+    var title = container
+                .append('div')
+                .attr('class', 'slide-title')
+                .append('h4')
+                .html(function () {
+                  var output = monthDate(timeformat(d.dates[0])) + " - " + monthDate(timeformat(d.dates[1])) + "<span class='arrow-down'></span>";
+                  console.log(output)
+                  return output;
+                });
+
+    var content = container
+                  .append('div')
+                  .attr('class', 'slide-content slide-closed')
+                  .append('p');
+
+                  content
+                  .append('span') 
+                  .html(function () {
+                    return 'Raised : '+ dollar(Math.round(d.line_12 + d.line_13 + d.line_14)) + "<br>";
+                  })
+
+                  content
+                  .append('span')
+                  .html(function(){
+                    return 'Spent : '+ dollar(Math.round(d.line_15)) + "<br>";
+                  })
+
+
+                  content
+                  .append('span')
+                  .html(function(){
+                    return 'Remaining : '+ dollar(Math.round(d.line_16));
+                  })    
+
+    
+
+
+  })
+  
+}
+
 
 function slideboxToggle(parent, child){
     var boxes = parent.selectAll('.slidebox')
@@ -38,7 +93,7 @@ function slideboxToggle(parent, child){
                 bx
                 .transition()
                 .duration(500)
-                .style('height', '50px')
+                .style('height', '30px')
                 }
             })
 
@@ -52,6 +107,21 @@ function slideboxToggle(parent, child){
               ob
               .transition()
               .duration(500)
-              .style('height', '230px')   
+              .style('height', '150px')   
           }
+}
+
+
+
+function detailBox () {
+
+    var deetbox = d3.select('body')
+                    .append('div')
+                    .attr('class', 'detailbox')
+
+        this.inner= function (callback) {
+                    callback();
+        }            
+
+  
 }
