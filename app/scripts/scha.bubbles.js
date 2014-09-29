@@ -8,7 +8,11 @@ function bubblesNoData (element) {
 
 
 function  bubbles(element, data) {
-	//console.log(data)
+
+
+				//mouseover box
+				var deetbox = detailBox();
+
 				var entities = ['IND', 'OTH', 'COM', 'SCC', 'PTY'];
 				var clrScale = d3.scale.ordinal()
 				                .domain(entities)
@@ -43,9 +47,9 @@ function  bubbles(element, data) {
 				var schaCtr = d3.select('#sch_A-ctr');
 				var schaCtrQ1 = d3.select('#sch_A-ctr .q1');
 				var schaCtrQ2 = d3.select('#sch_A-ctr .q2');
-				var schaCtrQ3 = d3.select('#sch_A-ctr .q3');
+				//var schaCtrQ3 = d3.select('#sch_A-ctr .q3');
 
-				schaCtrQ3.style('height', '150px')
+				//schaCtrQ3.style('height', '150px')
 
 				schaCtrQ1
 				      .on('click', function(){
@@ -62,7 +66,7 @@ function  bubbles(element, data) {
 				        byType(); 
 
 				      })
-
+/*
 				schaCtrQ3
 				      .on('click', function(){
 				        var ob = this;
@@ -70,7 +74,7 @@ function  bubbles(element, data) {
 				            
 				      })  
 
-
+*/
 				var mapCtr = d3.select('#map-ctr');
 				var mapCtrQ1 = d3.select('#map-ctr .q1');
 				var mapCtrQ2 = d3.select('#map-ctr .q2');
@@ -133,6 +137,29 @@ function  bubbles(element, data) {
 				                      return clrScale(des);
 
 				                 })
+				                .on('mouseover', function (d) {
+				                	var top = d3.event.pageY -25;
+				                	var left = d3.event.pageX +25;
+				                	var htm;
+
+				                	if(d.entity_cd == "IND"){
+				                		htm = "<p> Name : " + d.tran_namf + " " + d.tran_naml + "<br> Amount : " + dollar(d.tran_amt1) + "</p>"
+				                	}
+				                	else{
+				                		htm = "<p> Name : " + d.tran_naml + "<br> Amount : " + dollar(d.tran_amt1) + "</p>"
+				                	}
+
+
+
+				                	deetbox
+				                		.style('top', top + 'px')
+				                		.style('left', left + 'px' )
+				                		.style('opacity', .9)
+				                		.html(htm);
+				                })
+				                .on('mouseout', function (argument) {
+				                	deetbox.style('opacity', 0);
+				                })
 				                 .call(force.drag);
 
 
@@ -167,11 +194,15 @@ function  bubbles(element, data) {
 
 function byType(){
         var filter1 = function(d){if (d.entity_cd=="COM"){ return true}};
-        var loc1 = {x: 200, y:100}
+        var loc1 = {x: 100, y:100}
         var filter2 = function(d){if (d.entity_cd=="OTH"){ return true}};
         var loc2 = {x:450, y:250}
         var filter3 = function(d){if (d.entity_cd=="IND"){ return true}};
         var loc3 = {x:350, y:450}
+        var filter4 = function(d){if (d.entity_cd=="PTY"){ return true}};
+        var loc3 = {x:200, y:150}
+        var filter5 = function(d){if (d.entity_cd=="SCC"){ return true}};
+        var loc3 = {x:350, y:50}
        
 
        force.on('tick', function(e){
@@ -187,17 +218,17 @@ function byType(){
 
 
 function bySize(){
-      var filter1 = function(d){if (parseInt(d.tran_amt1)<=200){ return true}};
+      var filter1 = function(d){if (parseInt(d.tran_amt1)<500){ return true}};
       var loc1 = {x: 250, y:100}
-      var filter2 = function(d){if (parseInt(d.tran_amt1)>200 && parseInt(d.tran_amt1)<500){ return true}};
-      var loc2 = {x:250, y:350}
-      var filter3 = function(d){if (parseInt(d.tran_amt1)==500){ return true}};
+      //var filter2 = function(d){if (parseInt(d.tran_amt1)>200 && parseInt(d.tran_amt1)<500){ return true}};
+      //var loc2 = {x:250, y:350}
+      var filter3 = function(d){if (parseInt(d.tran_amt1)<=500){ return true}};
       var loc3 = {x:250, y:550}
      // var filter1 = function(d){if (d.entity_cd=="IND"){ return true}};
 
      force.on('tick', function(e){
       updateCircle(e, loc1, filter1);
-      updateCircle(e, loc2, filter2);
+      //updateCircle(e, loc2, filter2);
       updateCircle(e, loc3, filter3);
 
      }).start();

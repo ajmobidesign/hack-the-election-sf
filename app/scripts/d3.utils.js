@@ -115,13 +115,14 @@ function slideboxToggle(parent, child){
 
 function detailBox () {
 
-    var deetbox = d3.select('body')
+  var deetbox;
+
+
+        deetbox = d3.select('body')
                     .append('div')
-                    .attr('class', 'detailbox')
+                    .attr('id', 'detailbox');
+      
 
-        this.inner= function (callback) {
-                    callback();
-        }            
-
-  
+        return deetbox; 
+                             
 }

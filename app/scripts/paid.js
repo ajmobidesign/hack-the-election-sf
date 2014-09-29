@@ -8,7 +8,8 @@ function paidNoData (element) {
 
 function paid(element, data){
 	//console.log(data)
-
+	//mouseover box
+	
 	var paid = element.select('#ppl-paid');
 
 	var width2 = $('#ppl-paid').width() -40;
