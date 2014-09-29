@@ -154,7 +154,7 @@ var brdOSup=[
 		"dist":10,
 		"cands":[
 					{
-						"namf": "Maila", 
+						"namf": "Malia", 
 						"naml": "Cohen", 
 						"filer_id":"1359986",
 						"filer_naml":"Re-Elect Malia Cohen for Supervisor 2014",
@@ -220,6 +220,7 @@ for (d in brdOSup){
 			
 		nameIdx.push(candidate.naml);
 		if(candidate.isIncm){
+			candidate.flip= candidate.naml + ', '+ candidate.namf;
 			incum.push(candidate);
 		}
 	}

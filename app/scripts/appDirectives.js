@@ -101,3 +101,18 @@ angular.module('appDirectives', [])
     			
     		}
 		})
+        .directive('lobbyBlock', function () {
+             return {
+                restrict: 'EA', 
+                scope: {
+                        'data': '='
+                         }, 
+                link: link
+                };
+
+            function link(scope, element){
+                var ele = d3.select(element[0]);
+                renderLobbyData(ele, scope.data)
+                
+            }
+        })

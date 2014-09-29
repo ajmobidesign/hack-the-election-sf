@@ -105,6 +105,19 @@ angular
           }
         }
       })
+      .state('incumbentLobby', {
+        url: "/lobby/:lb/",
+        templateUrl: "/views/lobby.html", 
+        controller:'LobbyCtrl',
+        resolve:{
+          money: function($stateParams, LobbyFactory){
+            return (new LobbyFactory ($stateParams.lb)).getLobbyMoney();
+          },
+          contact: function($stateParams, LobbyFactory){
+            return (new LobbyFactory($stateParams.lb)).getLobbyContact();
+          }
+        }
+      })
     
 });
 

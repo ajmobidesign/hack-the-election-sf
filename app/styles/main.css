@@ -410,3 +410,85 @@
 	.paidCir.fixed {
   		fill:FA2828;
 	}
+
+
+	/*Lobbying*/
+
+
+	    #lobby-viz table td{
+    		width: 200px;
+
+
+    	}
+
+    	#lobby-viz td:first-child{
+    		text-align: center;
+
+    	}
+
+    	#lobby-viz .rows:hover{
+    		background: #ddd;
+    	}
+
+    	#lobby-viz .rows td{
+    		text-align: center;
+    		cursor: pointer;
+
+
+    	}
+
+    	#lobby-viz .rows td:second-child, 
+    	#lobby-viz .rows td:third-child{
+    		color:#fff;
+    		text-shadow: 2px 2px #888;
+    	}
+
+    	#lobby-viz tr.details td{
+    		height: 0px;
+    		overflow: hidden;
+    		color:#fff;
+    		opacity: 0.9;
+    	}
+
+    	#lobby-viz .detail{
+    		display: block;
+    		height: 0px;
+    		overflow: hidden;
+    		
+    	}
+
+
+
+
+    	#lobby-viz .lobby-open{
+    		height: auto;
+    		padding-top: 8px;
+    		padding-bottom: 5px;
+    		padding-left: 15px;
+    		padding-right: 8px;
+    	}
+
+    	#lobby-viz #name-details{
+    		margin-bottom: 100px;
+    	}
+
+
+    	#lobby-legend{
+    		margin-bottom: 50px;
+    	}
+
+    	#lobby-legend small{
+
+    		margin-right: 30px;
+
+    	}
+
+    	#lobby-legend small span{
+    		display: inline-block;
+    		vertical-align: middle;
+    		margin-left: 5px;
+    		height: 10px;
+    		width: 10px;
+    		border:1px solid #888;
+
+    	}
