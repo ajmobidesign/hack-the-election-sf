@@ -3,12 +3,14 @@
 	
 	 <tabset>
 	    
-	    <tab ng-repeat="d in cand_list" heading="District {{d.dist}}" active="" disabled="">
+	    <tab ng-repeat="d in cand_list" justified="true" heading="District {{d.dist}}" active="" disabled="">
 	      
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor vitae leo suscipit pellentesque. 
+			<p>Click on a Candidate name to see details of money raised and spent for the current election.</p>
 			<br>
+			<!--
 			Neighborhoods : 
 		  	</p>
+		  -->
 		  	<br>
 			<ol class="" >
 				<li ng-repeat="cand in d.cands"><a ui-sref="candidatesNames({name: cand.naml})" >{{cand.namf + " " + cand.naml}} <small class="incm" ng-if="cand.isIncm"> -Incumbent</small></a></li>

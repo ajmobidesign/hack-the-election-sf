@@ -4,25 +4,44 @@
 	 <tabset>
 	    
 	    <tab ng-repeat="d in incumbents" heading= "{{d.namf + ' ' + d.naml}}" active="" disabled="">
+
+	    	<div class="row">
+	    		<div class="col-md-6">
+	    			<h4>List of Past Committees</h4>
+
+	    			<div class="well">
+
+	    				    <p>Below is a list of all past fundraising committees associated with the incumbent. Looking at past committees's fundraising and sepnding can give a more detailed view of a candidate's overall fundraising and spending efforts. Click on a committee name to see details</p>
+	    		
+
+					    	<ol class="" >
+								<li  ng-repeat="cmt in d.past"><a class="" ui-sref="incumbentIds({id: cmt.filer_id})">{{(cmt.filer_naml).toLowerCase()}}</a></li>
+							</ol>
+					</div>
+	    		</div>
+	    		<div class="col-md-6">
+	    		<h4>Relationship with Lobbyists</h4>
+
+	    		<div class="well">
+				   
+
+				   <p>Lobbyists have who have contacted San Francisco city official are required to disclose details of the issues they lobbied for. Lobbyist are also required to disclose details of contributions given to city officials. Clik on the button below to see who has lobbied the incumbent, for what, when and who had contributed what and how much.</p>
+
+				    <ul style="list-style:none">
+				    	<li>	
+				    	<a class='btn btn-xs btn-primary' ui-sref="incumbentLobby({lb: d.flip})">See Visualization</a>
+				    	</li>
+				    </ul>
+				</div>
+	    		</div>
+
+	    	</div>
 	      
-	    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque ultrices neque at aliquet. Cras eget ligula a lorem lacinia dignissim vitae eu leo. Maecenas fringilla iaculis libero, a sagittis ligula porta eu.</p>
-	    <br>
 
-	    <h4>List of Past Committees</h4>
-	    	<ol class="" >
-				<li ng-repeat="cmt in d.past"><a ui-sref="incumbentIds({id: cmt.filer_id})">{{(cmt.filer_naml).toLowerCase()}}</a></li>
-			</ol>
 
 	    
 
-	    <h4>Relationship with Lobbyists</h4>
 
-	   <p> "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque ultrices neque at aliquet. Cras eget ligula a lorem lacinia dignissim vitae eu leo. Maecenas fringilla iaculis libero, a sagittis ligula porta eu."</p>
-
-	   <p>Who has lobbied them? For what?</p>
-
-	    
-	    <button class='btn btn-primary' ui-sref="incumbentLobby({lb: d.flip})">See Visualization</button>
 			
 		  	<!--
 			<ol class="" >
