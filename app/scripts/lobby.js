@@ -128,11 +128,11 @@ function content(d){
     }
 
     if(d.contact !=null){
-      contact = '<br> On Behalf Of :' + d.client +'<br> Issue : ' +d.contact+ '<br> Desired Outcome : '+ d._for ;
+      contact = '<br><strong> On Behalf Of :</strong>' + d.client +'<br> <strong>Issue : </strong>' +d.contact+ '<br><strong> Desired Outcome : </strong>'+ d._for ;
     }
 
 
-      return d.lobby +money + contact;
+      return  d.lobby +money + contact;
 
 
 }

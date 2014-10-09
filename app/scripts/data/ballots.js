@@ -198,3 +198,34 @@ var ballots =[
 ];
 
 
+var ballotNames =[];
+var ballotObs = [];
+
+ballots.forEach(function(d){
+  
+      d.cmt_for.forEach(function(p){
+          var ob = {
+               //name: "",
+               //id : ""
+            }
+            ob[p.filer_naml[0]] = p.filer_id;
+            //ob.id = p.filer_id;
+
+            ballotNames.push(p.filer_naml[0]);
+            ballotObs.push(ob);
+      })
+      d.cmt_against.forEach(function(e){
+          var ob = {
+               //name: "",
+               //id : ""
+            }
+            ob[e.filer_naml[0]] = e.filer_id;
+
+            ballotNames.push(e.filer_naml[0]);
+            ballotObs.push(ob);
+      })
+
+
+
+});
+

@@ -4,6 +4,7 @@
 		font-family: sans-serif;
 		padding-top:70px;
 		position: relative;
+		
 	}
 
 	p{
@@ -126,7 +127,7 @@
 		left: 0;
 		padding-top: 80px;
 		width: 100%;
-		min-height: 800px;
+		height: 2000px;
 		background: #1abc9c url(../images/goldengate_small.jpg);
 
 	}
@@ -486,9 +487,13 @@
     		display: block;
     		height: 0px;
     		overflow: hidden;
+    		font-size:13px;
     		
     	}
 
+    	#lobby-viz .detail strong{
+    		color:#333;
+    	}
 
 
 
