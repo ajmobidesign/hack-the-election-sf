@@ -42,7 +42,26 @@ function  bubbles(element, data) {
 				                     //.chargeDistance(10000)
 				                    .size([width, height]);
 
+				var lgd = d3.select('#sch_A-ctr .notes');
 
+				
+
+				var ldgOb = [{name : 'Individual', clr: '#12b3d6' }, 
+							{name : 'Other/Business Entity', clr: '#0e6aa4' },
+							{name : 'Recipient Committee', clr: '#FF0B9B' },
+							{name : 'Small Contributor Committee ', clr: '#fc5d2c' },
+							{name : 'Political Party', clr: '#0CD102' },]
+
+					for (l in ldgOb){
+						
+
+						lgd.append('small')
+						.html(ldgOb[l].name)
+
+						lgd.append('span')
+						.attr('class', 'ldgclr')
+						.style('background', ldgOb[l].clr)
+					}
 
 				var schaCtr = d3.select('#sch_A-ctr');
 				var schaCtrQ1 = d3.select('#sch_A-ctr .q1');

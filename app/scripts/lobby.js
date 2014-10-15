@@ -267,7 +267,7 @@ var rows = tables
          rows
          .append('td')
           .style('background', function(d){return color(d.contact)})
-         .html(function(d){return 'Lobbying Events: '+d.contact})    
+         .html(function(d){return 'Lobbying Contacts: '+d.contact})    
 
          rows
          .append('td')

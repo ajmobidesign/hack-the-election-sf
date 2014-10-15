@@ -182,6 +182,8 @@ function paid(element, data){
 
 			var displayCont = d3.select('#ppl-paid-ctr')
 
+			if(d3.select('table.'+id)[0][0] ==null){
+
 			displayCont
 			.append('h4')
 			.attr('class', id)
@@ -192,11 +194,18 @@ function paid(element, data){
 			.attr('class', id)
 			.html("Total Paid : " + dollar(d.amt))
 
+			//console.log(d3.select('table.'+id)[0][0])
+
+			
+
+			
+
 			var table = displayCont.append('table').attr('class', id)
 			var trow = table.append('tr')
 			trow.append('th').html('Date')
 			trow.append('th').html('For')
 			trow.append('th').html('Amount')
+
 
 
 			
@@ -213,13 +222,26 @@ function paid(element, data){
 					row.append('td')
 					.style('font-size', '10px')
 					.html(function(){
-						var ht = e_leg[f.expn_code];
-						console.log(f.expn_code, ht);
-						if(ht==undefined){
-							return 'None Listed';
+
+						if(f.expn_code == 'OTH' || f.expn_code ==''){
+							if(f.expn_dscr != undefined ){
+
+								return f.expn_dscr;
+							}
+							else{
+								return 'None Listed';
+							}
 						}
-						else{
-							return ht;
+						else{	
+							var ht = e_leg[f.expn_code];
+							console.log(f.expn_code, ht);
+							if(ht==undefined){
+								return 'None Listed';
+							}
+							else{
+								return ht;
+							}
+
 						}
 					})
 
@@ -232,7 +254,7 @@ function paid(element, data){
 
 		}
 		
-	  
+	  }
 	}
 
 		function dblclick(d) {

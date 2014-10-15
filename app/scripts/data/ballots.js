@@ -30,14 +30,22 @@ var ballots =[
       "title":"Children's Fund; Public Education Enrichment Fund; Children and Families Council; Rainy Day Reserve",
       "letter":"C",
       "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor vitae leo suscipit pellentesque. ",
-      "cmt_for":[
-         {
-            "filer_naml":[
-               "Children and Family First Committee"
-            ],
-            "filer_id":"1367736"
-         }
-      ],
+          "cmt_for":[
+      {
+        "filer_naml":[
+          "Children and Family First Committee",
+          "Children and Family First Committee, Yes on C"
+        ],
+        "filer_id":"1367736"
+      },
+      {
+        "filer_naml":[
+          "Support Our Children Our City Fund",
+          "Yes on C"
+        ],
+        "filer_id":"1366048"
+      }
+    ],
       "cmt_against":[
          
       ]
@@ -66,6 +74,12 @@ var ballots =[
          }
       ],
       "cmt_against":[
+             {
+        "filer_naml":[
+          "NO ON E: STOP UNFAIR BEVERAGE TAXES, COALITION FOR AN AFFORDABLE CITY, WITH MAJOR FUNDING BY AMERICAN BEVERAGE ASSOCIATION CALIFORNIA PAC"
+        ],
+        "filer_id":"1368526"
+      }
         
       ]
    },
@@ -90,12 +104,23 @@ var ballots =[
    "title": "Additional Transfer Tax on Residential Property Sold Within 5 Years of Purchase",
    "letter":"G",
    "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor vitae leo suscipit pellentesque. ",
-   "cmt_for": [
-            
-      ],
-   "cmt_against": [
-         
-      ] 
+"cmt_for":[
+      {
+        "filer_naml":[
+          "San Franciscans Against Real Estate Speculation",
+          "San Franciscans Against Real Estate Speculation, A Committee for Proposition G"
+        ],
+        "filer_id":"1367823"
+      }
+    ],
+    "cmt_against":[
+      {
+        "filer_naml":[
+          "Stop the Housing Tax, No on G, a coalition of homeowners, renters, and real estate organizations"
+        ],
+        "filer_id":"1369949"
+      }
+    ] 
    },
    {
       "title":"Requiring Certain Golden Gate Park Athletic Fields To Be Kept As Grass With No Artificial Lighting",
@@ -173,6 +198,12 @@ var ballots =[
    "letter":"K",
    "about":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tempor vitae leo suscipit pellentesque. ",
    "cmt_for": [
+      {
+        "filer_naml":[
+          "Coalition for Affordable Housing, a Committee for Proposition K"
+        ],
+        "filer_id":"1369298"
+      }
             
       ],
    "cmt_against": [
@@ -192,6 +223,12 @@ var ballots =[
          }
       ],
       "cmt_against":[
+         {
+        "filer_naml":[
+          "No on L, San Franciscans Against Gridlock"
+        ],
+        "filer_id":"1371708"
+      }
          
       ]
    }

@@ -9,8 +9,7 @@ var brdOSup=[
 						"filer_naml":"Re-Elect Supervisor Mark Farrell 2014",
 						"isIncm":true,
 						"past":[
-								{"filer_naml": "Committee to Elect John Farrell Assessor",
-								 "filer_id": "1240076"},
+
 								{"filer_naml": "Mark Farrell for District 2 Supervisor 2010",
 								 "filer_id": "1320480"},
 								{"filer_naml": "Common Sense Voters, SF 2010; Vote for Mark Farrell for District 2 Supervisor",

@@ -96,7 +96,7 @@
 
 	.block .title p{
 		margin-top: -8px;
-		font-size: 22px;
+		font-size: 30px !important;
 
 	}
 
@@ -445,11 +445,16 @@
 	}
 
 
+	#steam{
+		position: relative;
+	}
+
+
 	/*Lobbying*/
 
 
 	    #lobby-viz table td{
-    		width: 200px;
+    		width: 280px;
 
 
     	}
@@ -528,4 +533,14 @@
     		width: 10px;
     		border:1px solid #888;
 
+    	}
+
+    	.notes .ldgclr{
+    		display: inline-block;
+    		vertical-align: middle;
+    		margin-right: 5px;
+    		margin-left: 5px;
+    		height: 10px;
+    		width: 10px;
+    		border:1px solid #888;
     	}

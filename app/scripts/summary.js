@@ -101,43 +101,194 @@ function summarySteam(element, data){
 		    	.attr("x", 4)
 		    	.attr("dy", -4);
 
+		   //data details 	
+	var dataDetails = summary.append('div')
+							.style('position', 'absolute')
+							.style('width', width)
+							.style('height', '40px')
+							.style('top', '0px')
+							.style('left', '40px')
+							.style('z-index', 1000)
+
+	var dataDetailsText = dataDetails.append('span')
+							.html("Hover over the chart to see specific date")
+
+	
+
+    
+
+	var vertical = summary.append('div')
+							.style('position', 'absolute')
+							.style('width', '1px')
+							.style('height', (height-40) + 'px')
+							.style('background', '#fff')
+							.style('z-index', 1000)
+							.style('top', '40px')
+							.style('left', '40px')
 
 	var area = d3.svg.area()
 				.interpolate("cardinal")
 			    .x(function(d) { return x(d.date); })
 			    .y0(y(0))
-			    .y1(function(d) { return y(d.amt); });
+			   
+			    .y1(function(d) { 
+
+
+
+			    	return y(d.amt); 
+			    });
+/*
+	var line = d3.svg.line()
+				//.interpolate("cardinal")
+			    .x(function(d) { return x(d.date); })
+			    .y(function(d) { return y(d.amt); });
+
+	var testLine = svg
+					//.append('g')
+					.append('path')
+					.datum(dataOb.raisedFinal)
+					.attr('d', line)
+*/
+	function getXAtY(path, x, interval){
+
+		if(!interval){
+			interval = [0, path.getTotalLength()];
+
+		}
+
+		
+		
+		var isSmall = (interval[1]- interval[0]) <0.01 ;
+
+		console.log((interval[1]- interval[0]), isSmall);
+		//var startX = path.getPointAtLength(interval[0]);
+		//var endX = path.getPointAtLength(interval[1]);
+
+		var halfInterval = interval[0] +(interval[1] - interval[0])/2;
+		var halfX = path.getPointAtLength(halfInterval).x;
+		var foundX = halfX;
+		var foundY =  path.getPointAtLength(halfInterval).y;
+
+		console.log(foundX, foundY)
+		if(halfX>x && !isSmall){
+
+			foundX= getXAtY(path, x, [halfInterval, interval[1]]);
+		}
+		else if(!isSmall){
+
+			foundX = getXAtY(path, x, [interval[0], halfInterval]);
+		}
+		return foundX;
+	}	
+
+
+	console.log(y(0))    
 	
-		svg
+var spentArea=		svg
 			.append('g')
 			.append('path')
 			.datum(dataOb.spentFinal)
 			.attr('class', 'down')
 			.style('fill', '#ca0020')
+			.style('opacity', .8)
 			.attr('d', area)
+			.on('mouseover', areaMouseover)
+			.on('mouseout', areaMouseout)
+			.on('mousemove', areaMousemove)
 
 
-		svg
-			.append('g')
+var raisedArea=		svg
+			//.append('g')
 			.append('path')
 			.datum(dataOb.raisedFinal)
 			.attr('class', 'up')
 			.style('fill', '#0571b0')
+			.style('opacity', .8)
 			.attr('d', area)
+			.on('mouseover', areaMouseover)
+			.on('mouseout', areaMouseout)
+			.on('mousemove', areaMousemove)
 
-		svg
+var balanceArea=	svg
 			.append('g')
 			.append('path')
 			.datum(dataOb.allTrans)
 			.attr('class', 'balance')
 			.style('fill', '#92c5de')
+			.style('opacity', .8)
 			.attr('d', area)
+			.on('mouseover', areaMouseover)
+			.on('mouseout', areaMouseout)
+			.on('mousemove', areaMousemove)
 
-				
+function areaMouseover(){
+		d3.select(this)
+			.transition()
+			.duration(250)
+			.style('opacity', 1);
 
+			//console.log(d)
+
+		//dataDetailsText.html(dollar(parseFloat(d)));	
+
+		mousex = d3.mouse(this);
+         mousex = mousex[0] + 5;
+         vertical.style("left", mousex + "px" )	
+
+         //console.log(x.invert(mousex))
+         var testX = getXAtY(raisedArea.node(), mousex);
+         var v = y.invert(testX);
+         //console.log(testX, y.invert(testX))
+         //dataDetailsText.html(dollar(v) + " " + Math.floor(testX))
+
+         dataDetailsText.html(dayDate(x.invert(testX)));
+}
+
+function areaMouseout(){
+		d3.select(this)
+			.transition()
+			.duration(250)
+			.style('opacity', .8)	
+}
+
+
+function areaMousemove(d){
+		
+		mousex = d3.mouse(this);
+          mousex = mousex[0] + 5;
+         vertical.style("left", mousex + "px" )	
+
+         //dataDetailsText.html(dollar(parseFloat(d)));
+         //console.log(x.invert(mousex))
+         //console.log(mousex)
+         var testX = getXAtY( raisedArea.node(), mousex);
+        var v = y.invert(testX);
+         //console.log(testX, y.invert(testX))
+
+         //dataDetailsText.html(dollar(v) + " " +Math.floor(testX))
+
+         dataDetailsText.html(dayDate(x.invert(testX)));
+}
 	//Side content containers			
 
 	var sumCtr = d3.select('#steam-ctr .slide-container');
+
+	var lgd = d3.select('#steam-ctr .notes');
+
+	var ldgOb = [{name : 'Raised', clr: '#0571b0' }, 
+				{name : 'Spent', clr: '#ca0020' },
+				{name : 'Balance', clr: '#92c5de' },]
+
+		for (l in ldgOb){
+			
+
+			lgd.append('small')
+			.html(ldgOb[l].name)
+
+			lgd.append('span')
+			.attr('class', 'ldgclr')
+			.style('background', ldgOb[l].clr)
+		}		
 
 	renderSlideBox(sumCtr, sumBalance)
 
