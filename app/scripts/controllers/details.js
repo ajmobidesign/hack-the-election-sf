@@ -11,6 +11,24 @@ angular.module('angbaseApp')
   .controller('DetailsCtrl', function ($scope, summary, schA, schE) {
 
 	$scope.sumData = summaryProcess(summary.data);
+	//console.log($scope.SumData)
+
+	$scope.totalRaised = $scope.sumData.reduce(function(memo, item){
+		memo = memo + item.line_13;
+		return memo;
+	}, 0);
+
+	$scope.totalRaised = dollar(Math.round($scope.totalRaised ));
+
+	$scope.totalSpent = $scope.sumData.reduce(function(memo, item){
+		memo = memo + item.line_15;
+		return memo;
+	}, 0);
+
+	$scope.bal = $scope.sumData[$scope.sumData.length -1].line_16;
+
+	$scope.totalSpent = dollar(Math.round($scope.totalSpent ));
+
 	$scope.schAData = schA.data;
 	
 	$scope.schEData= schE.data;

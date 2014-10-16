@@ -17,7 +17,7 @@ function summarySteam(element, data){
 	var spent = data[2];
 	var fullSum = data[3];
 
-
+	console.log(sumBalance)
 	var dataOb = computeSteam(spent, raised);
 	var timeStart;
 	var timeEnd;
