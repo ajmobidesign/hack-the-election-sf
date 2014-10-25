@@ -30,15 +30,16 @@ function  bubbles(element, data) {
 				      .attr('height', height);
 
 
-				var maxRadius = 30;
+				//var maxRadius = 200;
 
 				var force = d3.layout.force()
 				                     .nodes(candidateData)
 				                     .friction(0.9)
 				                     //.gravity(.2)
 				                     //.charge(0)
-				                     //.charge(-5).charge(function(d){return -d.amt*.015})
-				                     .charge(function(d){return - d.tran_amt1*.015})
+				                     //.charge(-100)
+				                     //.charge(function(d){return -d.tran_amt*.015})
+				                     .charge(function(d){return - r(d.tran_amt1)*.8})
 				                     //.chargeDistance(10000)
 				                    .size([width, height]);
 
@@ -162,7 +163,7 @@ function  bubbles(element, data) {
 				                	var htm;
 
 				                	if(d.entity_cd == "IND"){
-				                		htm = "<p> Name : " + d.tran_namf + " " + d.tran_naml + "<br> Amount : " + dollar(d.tran_amt1) + "</p>"
+				                		htm = "<p> Name : " + d.tran_namf + " " + d.tran_naml + "<br> Amount : " + dollar(d.tran_amt1) +"<br> Occupation: "+ d.tran_occ + "<br> Employer: "+ d.tran_emp +"</p>"
 				                	}
 				                	else{
 				                		htm = "<p> Name : " + d.tran_naml + "<br> Amount : " + dollar(d.tran_amt1) + "</p>"

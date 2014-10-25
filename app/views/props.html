@@ -15,12 +15,12 @@
 			<ol class="prop-for" >Committees in Support
 
 				<li ng-repeat="sup in d.cmt_for">
-					<a ui-sref="ballotCmtNames({name: sup.filer_naml[0]})">{{(sup.filer_naml[0]).toLowerCase()}} </a>
+					<a ui-sref="ballotCmtNames({name: sup.query})">{{(sup.filer_naml[0]).toLowerCase()}} </a>
 				</li>
 			</ol>
 			<ol class="prop-against" >Committees Against
 				<li ng-repeat="ag in d.cmt_against">
-					<a ui-sref="ballotCmtNames({name: ag.filer_naml[0]})">{{(ag.filer_naml[0]).toLowerCase()}} </a>
+					<a ui-sref="ballotCmtNames({name: ag.query})">{{(ag.filer_naml[0]).toLowerCase()}} </a>
 				</li>
 			</ol>
 		

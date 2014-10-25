@@ -6,10 +6,19 @@ var ballots =[
       "cmt_for":[
          {
             "filer_naml":[
-               "Committee for Reliable Transportation and Better, Safer Streets"
+               "Committee for Reliable Transportation and Better, Safer Streets",
+               "Committee for Reliable Transportation %26 Better, Safer Streets, Yes on A"
             ],
             "filer_id":"1367740"
+         },
+         {
+          "filer_naml":[
+              "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE",
+              "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE, SUPPORTING PROPS. A, C, I, J AND K 2014"
+          ],
+          "filer_id": ""
          }
+
       ],
       "cmt_against":[
       
@@ -44,6 +53,13 @@ var ballots =[
           "Yes on C"
         ],
         "filer_id":"1366048"
+      },
+      {
+          "filer_naml":[
+              "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE",
+              "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE, SUPPORTING PROPS. A, C, I, J AND K 2014"
+          ],
+          "filer_id": ""
       }
     ],
       "cmt_against":[
@@ -91,7 +107,7 @@ var ballots =[
          {
             "filer_naml":[
                "NEIGHBORS FOR HOUSING AND PARKS AT UNION IRON WORKS, WITH MAJOR SUPPORT FROM FC PIER 70, LLC",
-               "YES ON F, WITH MAJOR SUPPORT FROM FC PIER 70, LLC"
+                "YES ON F, WITH MAJOR SUPPORT FROM FC PIER 70, LLC"
             ],
             "filer_id":"1367199"
          }
@@ -153,7 +169,14 @@ var ballots =[
                "LET SF KIDS PLAY"
             ],
             "filer_id":"1367433"
-         }
+         },
+        {
+            "filer_naml":[
+                "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE",
+                "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE, SUPPORTING PROPS. A, C, I, J AND K 2014"
+            ],
+            "filer_id": ""
+        }
       ],
       "cmt_against":[
          {
@@ -171,23 +194,32 @@ var ballots =[
       "cmt_for":[
          {
             "filer_naml":[
-               "San Franciscans for a Safe and Affordable City, with major funding by San Francisco Police Officers Association PAC and San Francisco Fire Fighters PAC"
+               "San Franciscans for a Safe and Affordable City, with major funding by San Francisco Police Officers Association PAC and San Francisco Fire Fighters PAC",
+               "San Franciscans for a Safe and Affordable City, with major funding by San Francisco Police Officers Association PAC and San Francisco Fire Fighters PAC, Yes on J"
             ],
             "filer_id":"1364449"
          },
          {
             "filer_naml":[
-               "Campaign for a Fair Economy and Higher Wages, sponsored by community and labor organizations",
+               "Campaign for a Fair Economy and Higher Wages, sponsored by community and labor organizations", 
                "Campaign for a Fair Economy and Higher Wages, sponsored by community and labor organizations, Yes on Proposition J"
             ],
             "filer_id":"1367310"
          },
          {
             "filer_naml":[
-               "Committee for Better Wages"
+               "Committee for Better Wages",
+               "Committee for Better Wages, Yes on J"
             ],
             "filer_id":"1367738"
-         }
+         },
+        {
+            "filer_naml":[
+                "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE",
+                "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE, SUPPORTING PROPS. A, C, I, J AND K 2014"
+            ],
+            "filer_id": ""
+        }
       ],
       "cmt_against":[
          
@@ -203,6 +235,13 @@ var ballots =[
           "Coalition for Affordable Housing, a Committee for Proposition K"
         ],
         "filer_id":"1369298"
+      },
+      {
+          "filer_naml":[
+              "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE",
+              "COMMITTEE FOR A BRIGHTER SAN FRANCISCO FUTURE, SUPPORTING PROPS. A, C, I, J AND K 2014"
+          ],
+          "filer_id": ""
       }
             
       ],
@@ -239,27 +278,68 @@ var ballotNames =[];
 var ballotObs = [];
 
 ballots.forEach(function(d){
-  
+    
       d.cmt_for.forEach(function(p){
-          var ob = {
-               //name: "",
-               //id : ""
-            }
+            var forQuery='';
+           
+            var ob={};
             ob[p.filer_naml[0]] = p.filer_id;
             //ob.id = p.filer_id;
 
             ballotNames.push(p.filer_naml[0]);
             ballotObs.push(ob);
+
+            p.filer_naml.forEach(function(f,i){
+              
+              var ln = p.filer_naml.length;
+              if(ln>1){
+                  if(i==0){
+                    forQuery+="$where=";
+                  }
+                
+                  if(i<ln-1){
+                    forQuery+= "filer_naml ='"+ f + "' OR ";
+                  }
+                  else{
+                    forQuery+="filer_naml ='"+ f +"'";
+                  }
+               }
+               else{
+                  forQuery+="filer_naml=" + f;
+               } 
+
+            });
+
+            p.query = forQuery;
       })
       d.cmt_against.forEach(function(e){
-          var ob = {
-               //name: "",
-               //id : ""
-            }
+            var ob={};
+             var agQuery='';
             ob[e.filer_naml[0]] = e.filer_id;
 
             ballotNames.push(e.filer_naml[0]);
             ballotObs.push(ob);
+
+             e.filer_naml.forEach(function(f,i){
+              var ln = e.filer_naml.length;
+              if(ln>1){
+                  if(i==0){
+                    agQuery+="$where=";
+                  }
+                  if(i<ln-1){
+                    agQuery+= "filer_naml ='"+ f + "' OR ";
+                  }
+                  else{
+                    agQuery+="filer_naml ='"+ f + "'";
+                  }
+               }
+               else{
+                  agQuery+="filer_naml=" + f;
+               } 
+
+            });
+
+            e.query = agQuery;
       })
 
 

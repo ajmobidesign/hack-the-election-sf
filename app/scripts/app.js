@@ -63,14 +63,15 @@ angular
         templateUrl: "/views/details.html", 
         controller:'DetailsCtrl',
         resolve:{
-          schA: function($stateParams, CommitteeFactory){
-            return (new CommitteeFactory($stateParams.name)).getSchA();
+          schA: function($stateParams, PropCommitteeFactory){
+            //console.log($stateParams.name)
+            return (new PropCommitteeFactory($stateParams.name)).getSchA();
           },
-           schE: function($stateParams, CommitteeFactory){
-            return (new CommitteeFactory($stateParams.name)).getSchE();
+           schE: function($stateParams, PropCommitteeFactory){
+            return (new PropCommitteeFactory($stateParams.name)).getSchE();
           },
-           summary: function($stateParams, CommitteeFactory){
-            return (new CommitteeFactory($stateParams.name)).getSum();
+           summary: function($stateParams, PropCommitteeFactory){
+            return (new PropCommitteeFactory($stateParams.name)).getSum();
           }
         }
       })

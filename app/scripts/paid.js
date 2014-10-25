@@ -97,7 +97,10 @@ function paid(element, data){
 	                     .nodes(obsW)
 	                     .friction(0.9)
 	                     //.charge(function(d){return -d.amt*.04})
-	                     .charge(function(d){return -d.amt*.015})
+	                     //.charge(function(d){return -d.amt*.015})
+	                     //.charge(function(d){return - r2(d.amt)})
+	                     .charge(-100)
+	                     //.chargeDistance()
 	                    .size([width2, height2]);
 
 	var drag = force2.drag()

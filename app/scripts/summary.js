@@ -17,7 +17,7 @@ function summarySteam(element, data){
 	var spent = data[2];
 	var fullSum = data[3];
 
-	console.log(sumBalance)
+	//console.log(sumBalance)
 	var dataOb = computeSteam(spent, raised);
 	var timeStart;
 	var timeEnd;
@@ -45,7 +45,7 @@ function summarySteam(element, data){
 
 	var timeDomain = [ timeScaleStart, timeSCaleEnd];
 
-	console.log(timeDomain)
+	//console.log(timeDomain)
 	var tvals = [ timeformat('2013-07-01T00:00:00'), timeformat('2014-01-01T00:00:00'), timeformat('2014-06-31T00:00:00')];
 
 	//Need to make dynamic
@@ -53,7 +53,7 @@ function summarySteam(element, data){
 	var multiple = -(dataOb.minVal*.4);
 	var multiple2 = dataOb.maxVal*.15;
 
-	console.log(dataOb.minVal, multiple)
+	//console.log(dataOb.minVal, multiple)
 
 	var moneyDomain = [dataOb.maxVal+(multiple2), dataOb.minVal - multiple]
 	//[350000, -90000];
@@ -160,7 +160,7 @@ function summarySteam(element, data){
 		
 		var isSmall = (interval[1]- interval[0]) <0.01 ;
 
-		console.log((interval[1]- interval[0]), isSmall);
+		//console.log((interval[1]- interval[0]), isSmall);
 		//var startX = path.getPointAtLength(interval[0]);
 		//var endX = path.getPointAtLength(interval[1]);
 
@@ -169,7 +169,7 @@ function summarySteam(element, data){
 		var foundX = halfX;
 		var foundY =  path.getPointAtLength(halfInterval).y;
 
-		console.log(foundX, foundY)
+		//console.log(foundX, foundY)
 		if(halfX>x && !isSmall){
 
 			foundX= getXAtY(path, x, [halfInterval, interval[1]]);
@@ -182,7 +182,7 @@ function summarySteam(element, data){
 	}	
 
 
-	console.log(y(0))    
+	//console.log(y(0))    
 	
 var spentArea=		svg
 			.append('g')

@@ -11,14 +11,25 @@ var timeformat = function (date) {
 
 
 var r =   d3
-          .scale.pow().exponent(.6)
-          .domain([0, 13000])
-          .range([5, 30]);
-
+          //.scale.pow().exponent(.6)
+          .scale.log()
+          .base(10)
+          //.domain([Math.exp(2), Math.exp(6)])
+          .domain([100, 100000])
+          //.domain([0, 13000])
+          .range([5, 50]);
 var r2 =   d3
+            /*
             .scale.pow().exponent(.6)
             .domain([0, 13000])
-            .range([5, 30]);
+            .range([5, 30])
+            */
+            .scale.log()
+            .base(10)
+            //.domain([Math.exp(2), Math.exp(6)])
+            .domain([100, 1000000])
+            //.domain([0, 13000])
+            .range([5, 100]);
 
 
 /*Toggle*/
