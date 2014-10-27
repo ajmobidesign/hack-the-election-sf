@@ -119,6 +119,10 @@ angular
           }
         }
       })
+      .state('about', {
+        url: "/about",
+        templateUrl: "/views/about.html"
+      })
     
 });
 

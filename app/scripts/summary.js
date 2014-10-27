@@ -236,12 +236,12 @@ function areaMouseover(){
          vertical.style("left", mousex + "px" )	
 
          //console.log(x.invert(mousex))
-         var testX = getXAtY(raisedArea.node(), mousex);
-         var v = y.invert(testX);
+         //var testX = getXAtY(raisedArea.node(), mousex);
+         //var v = y.invert(testX);
          //console.log(testX, y.invert(testX))
          //dataDetailsText.html(dollar(v) + " " + Math.floor(testX))
 
-         dataDetailsText.html(dayDate(x.invert(testX)));
+         dataDetailsText.html(dayDate(x.invert(mousex)));
 }
 
 function areaMouseout(){
@@ -261,13 +261,13 @@ function areaMousemove(d){
          //dataDetailsText.html(dollar(parseFloat(d)));
          //console.log(x.invert(mousex))
          //console.log(mousex)
-         var testX = getXAtY( raisedArea.node(), mousex);
-        var v = y.invert(testX);
+         //var testX = getXAtY( raisedArea.node(), mousex);
+        //var v = y.invert(testX);
          //console.log(testX, y.invert(testX))
 
          //dataDetailsText.html(dollar(v) + " " +Math.floor(testX))
 
-         dataDetailsText.html(dayDate(x.invert(testX)));
+         dataDetailsText.html(dayDate(x.invert(mousex)));
 }
 	//Side content containers			
 
